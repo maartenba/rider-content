@@ -113,6 +113,7 @@ This category contains various blog posts and articles written by the community.
   * [Day 8 - Using Visual Studio Code with a .NET Core Console Application](http://michaelcrump.net/part8-aspnetcore/) (community)
   * [Day 9 - Creating a .NET Core Console App inside of Visual Studio Code](http://michaelcrump.net/part9-aspnetcore/) (community)
   * [Day 10 - Using JetBrains Rider with a .NET Core Console Application](http://michaelcrump.net/part10-aspnetcore/) (community)
+* [Project Rider: A Standalone ReSharper IDE](https://www.toptal.com/c-sharp/project-rider-a-standalone-resharper-ide) (community)
 
 ## A little bit of everything
 
