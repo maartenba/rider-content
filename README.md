@@ -31,7 +31,6 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Find in Path gutter and more UI improvements in Rider 2017.2](https://blog.jetbrains.com/dotnet/2017/10/02/find-path-gutter-ui-improvements-rider-2017-2/) (JetBrains)
 * [Working with Rider's built-in terminal](https://blog.jetbrains.com/dotnet/2017/11/14/working-rider-built-terminal/) (JetBrains)
 * [Using a custom shell with Rider's built-in terminal](https://blog.jetbrains.com/dotnet/2017/11/15/using-custom-shell-riders-built-terminal/) (JetBrains)
-* [Project Rider: A Standalone ReSharper IDE](https://www.toptal.com/c-sharp/project-rider-a-standalone-resharper-ide) (toptal)
 
 ### Videos
 
@@ -114,6 +113,7 @@ This category contains various blog posts and articles written by the community.
   * [Day 8 - Using Visual Studio Code with a .NET Core Console Application](http://michaelcrump.net/part8-aspnetcore/) (community)
   * [Day 9 - Creating a .NET Core Console App inside of Visual Studio Code](http://michaelcrump.net/part9-aspnetcore/) (community)
   * [Day 10 - Using JetBrains Rider with a .NET Core Console Application](http://michaelcrump.net/part10-aspnetcore/) (community)
+* [Project Rider: A Standalone ReSharper IDE](https://www.toptal.com/c-sharp/project-rider-a-standalone-resharper-ide) (community)
 
 ## A little bit of everything
 
