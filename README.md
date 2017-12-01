@@ -31,6 +31,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Find in Path gutter and more UI improvements in Rider 2017.2](https://blog.jetbrains.com/dotnet/2017/10/02/find-path-gutter-ui-improvements-rider-2017-2/) (JetBrains)
 * [Working with Rider's built-in terminal](https://blog.jetbrains.com/dotnet/2017/11/14/working-rider-built-terminal/) (JetBrains)
 * [Using a custom shell with Rider's built-in terminal](https://blog.jetbrains.com/dotnet/2017/11/15/using-custom-shell-riders-built-terminal/) (JetBrains)
+* [C# Interactive tool window](https://blog.jetbrains.com/dotnet/2017/12/01/c-interactive-rider/) (JetBrains)
 
 ### Videos
 
