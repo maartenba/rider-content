@@ -49,6 +49,7 @@ In this category, we explore Rider's debugger. There are various tips & tricks a
 * [Run/debug configurations in Rider](https://blog.jetbrains.com/dotnet/2017/08/23/rundebug-configurations-rider/) (JetBrains)
 * [Rider advanced debugging with breakpoints](https://blog.jetbrains.com/dotnet/2017/08/28/rider-advanced-debugging-breakpoints/) (JetBrains)
 * [Lambda expression breakpoints and debugger watches in Rider](https://blog.jetbrains.com/dotnet/2017/10/30/lambda-expression-breakpoints-debugger-watches-rider/) (JetBrains)
+* [Smart Step Into debugging in Rider](https://blog.jetbrains.com/dotnet/2017/12/05/smart-step-debugging-rider/) (JetBrains)
 
 ### Videos
 
