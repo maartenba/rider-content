@@ -52,6 +52,7 @@ In this category, we explore Rider's debugger. There are various tips & tricks a
 * [Lambda expression breakpoints and debugger watches in Rider](https://blog.jetbrains.com/dotnet/2017/10/30/lambda-expression-breakpoints-debugger-watches-rider/) (JetBrains)
 * [Smart Step Into debugging in Rider](https://blog.jetbrains.com/dotnet/2017/12/05/smart-step-debugging-rider/) (JetBrains)
 * [Drag-and-drop the execution point, function return values in locals, async call stack, ...](https://blog.jetbrains.com/dotnet/2017/12/13/async-call-stack-debugger-improvements-rider-2017-3/) (JetBrains)
+* [Debugging third-party code with Rider](https://blog.jetbrains.com/dotnet/2017/12/20/debugging-third-party-code-rider/) (JetBrains)
 
 ### Videos
 
