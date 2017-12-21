@@ -33,6 +33,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Using a custom shell with Rider's built-in terminal](https://blog.jetbrains.com/dotnet/2017/11/15/using-custom-shell-riders-built-terminal/) (JetBrains)
 * [C# Interactive tool window](https://blog.jetbrains.com/dotnet/2017/12/01/c-interactive-rider/) (JetBrains)
 * [XDT configuration transformations in Rider](https://blog.jetbrains.com/dotnet/2017/12/15/xdt-configuration-transformations-rider/) (JetBrains)
+* [Project templates in Rider 2017.3 - using `dotnet new`](https://blog.jetbrains.com/dotnet/2017/12/21/project-templates-rider-2017-3/) (JetBrains)
 
 ### Videos
 
