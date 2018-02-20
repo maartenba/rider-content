@@ -55,6 +55,7 @@ In this category, we explore Rider's debugger. There are various tips & tricks a
 * [Smart Step Into debugging in Rider](https://blog.jetbrains.com/dotnet/2017/12/05/smart-step-debugging-rider/) (JetBrains)
 * [Drag-and-drop the execution point, function return values in locals, async call stack, ...](https://blog.jetbrains.com/dotnet/2017/12/13/async-call-stack-debugger-improvements-rider-2017-3/) (JetBrains)
 * [Debugging third-party code with Rider](https://blog.jetbrains.com/dotnet/2017/12/20/debugging-third-party-code-rider/) (JetBrains)
+* [Debugging third-party code with Rider – now in Mono!](https://blog.jetbrains.com/dotnet/2018/02/19/debugging-third-party-code-with-rider-now-in-mono/) (JetBrains)
 * [Simultaneous debugging of JavaScript and .NET code with Rider](https://blog.jetbrains.com/dotnet/2018/01/17/simultaneous-debugging-javascript-net-code-rider/) (JetBrains)
 
 ### Videos
