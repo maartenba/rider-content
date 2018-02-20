@@ -103,6 +103,7 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [Support for Unity shaders in Rider 2017.2](https://blog.jetbrains.com/dotnet/2017/10/02/support-unity-shaders-rider-2017-2/) (JetBrains)
 * [A real IDE for #unity3d: how to install JetBrains Rider C# editor on Mac (2017) #unitytips](http://t-machine.org/index.php/2017/04/08/a-real-ide-for-unity3d-how-to-install-jetbrains-rider-c-editor-on-mac-2017-unitytips/) (community)
 * [Rider 2017.3 and Unity - Quick documentation, auto-property serialization,event functions, external class libraries, ...](https://blog.jetbrains.com/dotnet/2018/02/15/rider-2017-3-unity/) (JetBrains)
+* [Working with external class libraries in Unity and Rider](https://blog.jetbrains.com/dotnet/2018/02/20/working-external-class-libraries-unity-rider/) (JetBrains)
 
 #### Videos
 
