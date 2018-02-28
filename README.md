@@ -35,6 +35,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [XDT configuration transformations in Rider](https://blog.jetbrains.com/dotnet/2017/12/15/xdt-configuration-transformations-rider/) (JetBrains)
 * [Project templates in Rider 2017.3 - using `dotnet new`](https://blog.jetbrains.com/dotnet/2017/12/21/project-templates-rider-2017-3/) (JetBrains)
 * [Adding additional colour themes to JetBrains Rider](http://www.alexjamesbrown.com/blog/tag/jetbrains-rider/) (community)
+* [Unit testing improvements in Rider 2017.3](https://blog.jetbrains.com/dotnet/2017/12/12/unit-testing-improvements-rider-2017-3/) (JetBrains)
 
 ### Videos
 
@@ -152,4 +153,5 @@ This category contains "a little bit of everything". Very often these are posts 
 * [Rider Release Candidate: performance, refactorings, Unity and more!](https://blog.jetbrains.com/dotnet/2017/07/14/rider-release-candidate-performance-refactorings-unity/) (JetBrains)
 * [Rider 2017.2 EAP brings .NET Core 2.0, MSTest, and more](https://blog.jetbrains.com/dotnet/2017/09/04/rider-2017-2-eap-brings-net-core-2-0-mstest/) (JetBrains)
 * [Rider 2017.3 Early Access Program is open](https://blog.jetbrains.com/dotnet/2017/11/24/rider-2017-3-early-access-program-open/) (JetBrains)
-* [Unit testing improvements in Rider 2017.3](https://blog.jetbrains.com/dotnet/2017/12/12/unit-testing-improvements-rider-2017-3/) (JetBrains)
+* [Rider 2018.1 EAP is open](https://blog.jetbrains.com/dotnet/2018/02/27/rider-2018-1-eap-open/) (JetBrains)
+
