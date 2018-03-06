@@ -36,6 +36,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Project templates in Rider 2017.3 - using `dotnet new`](https://blog.jetbrains.com/dotnet/2017/12/21/project-templates-rider-2017-3/) (JetBrains)
 * [Adding additional colour themes to JetBrains Rider](http://www.alexjamesbrown.com/blog/tag/jetbrains-rider/) (community)
 * [Unit testing improvements in Rider 2017.3](https://blog.jetbrains.com/dotnet/2017/12/12/unit-testing-improvements-rider-2017-3/) (JetBrains)
+* [Credential providers for private NuGet feeds in Rider 2018.1 EAP](https://blog.jetbrains.com/dotnet/2018/03/06/credential-providers-private-nuget-feeds-rider-2018-1-eap/) (JetBrains)
 
 ### Videos
 
