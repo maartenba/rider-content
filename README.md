@@ -31,6 +31,13 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Find in Path gutter and more UI improvements in Rider 2017.2](https://blog.jetbrains.com/dotnet/2017/10/02/find-path-gutter-ui-improvements-rider-2017-2/) (JetBrains)
 * [Working with Rider's built-in terminal](https://blog.jetbrains.com/dotnet/2017/11/14/working-rider-built-terminal/) (JetBrains)
 * [Using a custom shell with Rider's built-in terminal](https://blog.jetbrains.com/dotnet/2017/11/15/using-custom-shell-riders-built-terminal/) (JetBrains)
+* [C# Interactive tool window](https://blog.jetbrains.com/dotnet/2017/12/01/c-interactive-rider/) (JetBrains)
+* [XDT configuration transformations in Rider](https://blog.jetbrains.com/dotnet/2017/12/15/xdt-configuration-transformations-rider/) (JetBrains)
+* [Project templates in Rider 2017.3 - using `dotnet new`](https://blog.jetbrains.com/dotnet/2017/12/21/project-templates-rider-2017-3/) (JetBrains)
+* [Adding additional colour themes to JetBrains Rider](http://www.alexjamesbrown.com/blog/tag/jetbrains-rider/) (community)
+* [Unit testing improvements in Rider 2017.3](https://blog.jetbrains.com/dotnet/2017/12/12/unit-testing-improvements-rider-2017-3/) (JetBrains)
+* [Credential providers for private NuGet feeds in Rider 2018.1 EAP](https://blog.jetbrains.com/dotnet/2018/03/06/credential-providers-private-nuget-feeds-rider-2018-1-eap/) (JetBrains)
+* [Run web site projects, edit file properties and more project model updates in Rider](https://blog.jetbrains.com/dotnet/2018/03/13/run-web-site-projects-edit-file-properties-project-model-updates-rider/) (JetBrains)
 
 ### Videos
 
@@ -48,6 +55,12 @@ In this category, we explore Rider's debugger. There are various tips & tricks a
 * [Run/debug configurations in Rider](https://blog.jetbrains.com/dotnet/2017/08/23/rundebug-configurations-rider/) (JetBrains)
 * [Rider advanced debugging with breakpoints](https://blog.jetbrains.com/dotnet/2017/08/28/rider-advanced-debugging-breakpoints/) (JetBrains)
 * [Lambda expression breakpoints and debugger watches in Rider](https://blog.jetbrains.com/dotnet/2017/10/30/lambda-expression-breakpoints-debugger-watches-rider/) (JetBrains)
+* [Smart Step Into debugging in Rider](https://blog.jetbrains.com/dotnet/2017/12/05/smart-step-debugging-rider/) (JetBrains)
+* [Drag-and-drop the execution point, function return values in locals, async call stack, ...](https://blog.jetbrains.com/dotnet/2017/12/13/async-call-stack-debugger-improvements-rider-2017-3/) (JetBrains)
+* [Debugging third-party code with Rider](https://blog.jetbrains.com/dotnet/2017/12/20/debugging-third-party-code-rider/) (JetBrains)
+* [Debugging third-party code with Rider – now in Mono!](https://blog.jetbrains.com/dotnet/2018/02/19/debugging-third-party-code-with-rider-now-in-mono/) (JetBrains)
+* [Simultaneous debugging of JavaScript and .NET code with Rider](https://blog.jetbrains.com/dotnet/2018/01/17/simultaneous-debugging-javascript-net-code-rider/) (JetBrains)
+* [https://blog.jetbrains.com/dotnet/2018/03/08/exception-popup-improved-smart-step-symbol-servers-rider-2018-1-eap-debugger-updates/](https://blog.jetbrains.com/dotnet/2018/03/08/exception-popup-improved-smart-step-symbol-servers-rider-2018-1-eap-debugger-updates/) (JetBrains)
 
 ### Videos
 
@@ -85,6 +98,13 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 ### JavaScript and TypeScript
 
 * [Better JavaScript and TypeScript support in Rider 2017.2](https://blog.jetbrains.com/dotnet/2017/09/25/better-javascript-typescript-support-rider-2017-2/) (JetBrains)
+* [Rider 2017.3 improved support for JavaScript, TypeScript and CSS](https://blog.jetbrains.com/dotnet/2018/02/21/general-web-development-updates-rider-2017-3/) (JetBrains)
+
+### Web development
+
+* [Web framework updates in Rider 2017.3 – Angular, Vue.js, ...](https://blog.jetbrains.com/dotnet/2018/02/22/web-framework-updates-rider-2017-3-angular-vue-js/) (JetBrains)
+* [Live Edit and Spy-JS in Rider 2017.3](https://blog.jetbrains.com/dotnet/2018/02/23/live-edit-spy-js-rider-2017-3/) (JetBrains)
+* [Web developer tools in Rider 2017.3: HTTP client and SVG editing](https://blog.jetbrains.com/dotnet/2018/02/26/web-developer-tools-rider-2017-3-http-client-svg-editing/) (JetBrains)
 
 ### Unity
 
@@ -93,6 +113,8 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [Getting started with Rider and Unity](https://blog.jetbrains.com/dotnet/2017/08/30/getting-started-rider-unity/) (JetBrains)
 * [Support for Unity shaders in Rider 2017.2](https://blog.jetbrains.com/dotnet/2017/10/02/support-unity-shaders-rider-2017-2/) (JetBrains)
 * [A real IDE for #unity3d: how to install JetBrains Rider C# editor on Mac (2017) #unitytips](http://t-machine.org/index.php/2017/04/08/a-real-ide-for-unity3d-how-to-install-jetbrains-rider-c-editor-on-mac-2017-unitytips/) (community)
+* [Rider 2017.3 and Unity - Quick documentation, auto-property serialization,event functions, external class libraries, ...](https://blog.jetbrains.com/dotnet/2018/02/15/rider-2017-3-unity/) (JetBrains)
+* [Working with external class libraries in Unity and Rider](https://blog.jetbrains.com/dotnet/2018/02/20/working-external-class-libraries-unity-rider/) (JetBrains)
 
 #### Videos
 
@@ -113,6 +135,8 @@ This category contains various blog posts and articles written by the community.
   * [Day 8 - Using Visual Studio Code with a .NET Core Console Application](http://michaelcrump.net/part8-aspnetcore/) (community)
   * [Day 9 - Creating a .NET Core Console App inside of Visual Studio Code](http://michaelcrump.net/part9-aspnetcore/) (community)
   * [Day 10 - Using JetBrains Rider with a .NET Core Console Application](http://michaelcrump.net/part10-aspnetcore/) (community)
+* [Project Rider: A Standalone ReSharper IDE](https://www.toptal.com/c-sharp/project-rider-a-standalone-resharper-ide) (community)
+* [A look a Rider for Visual Studio users](https://stackify.com/visual-studio-rider/) (community)
 
 ## A little bit of everything
 
@@ -132,10 +156,8 @@ This category contains "a little bit of everything". Very often these are posts 
 * [Rider EAP 24 includes performance fixes, F# Interactive](https://blog.jetbrains.com/dotnet/2017/06/29/rider-eap-24-includes-performance-fixes-f-interactive/) (JetBrains)
 * [Rider Release Candidate: performance, refactorings, Unity and more!](https://blog.jetbrains.com/dotnet/2017/07/14/rider-release-candidate-performance-refactorings-unity/) (JetBrains)
 * [Rider 2017.2 EAP brings .NET Core 2.0, MSTest, and more](https://blog.jetbrains.com/dotnet/2017/09/04/rider-2017-2-eap-brings-net-core-2-0-mstest/) (JetBrains)
-
-* [Rider 2017.3 Early Access Program is open](https://blog.jetbrains.com/dotnet/2017/11/24/rider-2017-3-early-access-program-open/) (JetBrains)
-
 * Database Management
   1. [Configuring SQL Server 2017 for Rider](https://blog.jetbrains.com/dotnet/2018/03/14/configuring-sql-server-2017-for-rider/) (JetBrains)
   2. [Getting started with database support in Rider](https://blog.jetbrains.com/dotnet/2018/03/15/getting-started-with-database-support-in-rider/) (JetBrains)
   3. [Working with Tables and Indexes in Rider](https://blog.jetbrains.com/dotnet/2018/03/16/working-with-tables-and-indexes-in-rider/) (JetBrains)
+
