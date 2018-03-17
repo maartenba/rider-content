@@ -156,6 +156,8 @@ This category contains "a little bit of everything". Very often these are posts 
 * [Rider EAP 24 includes performance fixes, F# Interactive](https://blog.jetbrains.com/dotnet/2017/06/29/rider-eap-24-includes-performance-fixes-f-interactive/) (JetBrains)
 * [Rider Release Candidate: performance, refactorings, Unity and more!](https://blog.jetbrains.com/dotnet/2017/07/14/rider-release-candidate-performance-refactorings-unity/) (JetBrains)
 * [Rider 2017.2 EAP brings .NET Core 2.0, MSTest, and more](https://blog.jetbrains.com/dotnet/2017/09/04/rider-2017-2-eap-brings-net-core-2-0-mstest/) (JetBrains)
-* [Rider 2017.3 Early Access Program is open](https://blog.jetbrains.com/dotnet/2017/11/24/rider-2017-3-early-access-program-open/) (JetBrains)
-* [Rider 2018.1 EAP is open](https://blog.jetbrains.com/dotnet/2018/02/27/rider-2018-1-eap-open/) (JetBrains)
+* Database Management
+  1. [Configuring SQL Server 2017 for Rider](https://blog.jetbrains.com/dotnet/2018/03/14/configuring-sql-server-2017-for-rider/) (JetBrains)
+  2. [Getting started with database support in Rider](https://blog.jetbrains.com/dotnet/2018/03/15/getting-started-with-database-support-in-rider/) (JetBrains)
+  3. [Working with Tables and Indexes in Rider](https://blog.jetbrains.com/dotnet/2018/03/16/working-with-tables-and-indexes-in-rider/) (JetBrains)
 
