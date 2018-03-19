@@ -112,6 +112,7 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
   * [Configuring SQL Server 2017 for Rider](https://blog.jetbrains.com/dotnet/2018/03/14/configuring-sql-server-2017-for-rider/) (JetBrains)
   * [Getting started with database support in Rider](https://blog.jetbrains.com/dotnet/2018/03/15/getting-started-with-database-support-in-rider/) (JetBrains)
   * [Working with Tables and Indexes in Rider](https://blog.jetbrains.com/dotnet/2018/03/16/working-with-tables-and-indexes-in-rider/) (JetBrains)
+  * [Working with Data in Rider](https://blog.jetbrains.com/dotnet/2018/03/19/working-data-rider/) (JetBrains)
   
 ### Unity
 
