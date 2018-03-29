@@ -108,6 +108,10 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [Live Edit and Spy-JS in Rider 2017.3](https://blog.jetbrains.com/dotnet/2018/02/23/live-edit-spy-js-rider-2017-3/) (JetBrains)
 * [Web developer tools in Rider 2017.3: HTTP client and SVG editing](https://blog.jetbrains.com/dotnet/2018/02/26/web-developer-tools-rider-2017-3-http-client-svg-editing/) (JetBrains)
 
+### WPF / XAML
+
+* [https://blog.jetbrains.com/dotnet/2018/03/29/xaml-preview-tool-window-wpf-rider/](https://blog.jetbrains.com/dotnet/2018/03/29/xaml-preview-tool-window-wpf-rider/) (JetBrains)
+
 ### Database development
 
 * Rider database management series
