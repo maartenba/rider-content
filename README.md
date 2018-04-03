@@ -62,7 +62,8 @@ In this category, we explore Rider's debugger. There are various tips & tricks a
 * [Debugging third-party code with Rider](https://blog.jetbrains.com/dotnet/2017/12/20/debugging-third-party-code-rider/) (JetBrains)
 * [Debugging third-party code with Rider – now in Mono!](https://blog.jetbrains.com/dotnet/2018/02/19/debugging-third-party-code-with-rider-now-in-mono/) (JetBrains)
 * [Simultaneous debugging of JavaScript and .NET code with Rider](https://blog.jetbrains.com/dotnet/2018/01/17/simultaneous-debugging-javascript-net-code-rider/) (JetBrains)
-* [https://blog.jetbrains.com/dotnet/2018/03/08/exception-popup-improved-smart-step-symbol-servers-rider-2018-1-eap-debugger-updates/](https://blog.jetbrains.com/dotnet/2018/03/08/exception-popup-improved-smart-step-symbol-servers-rider-2018-1-eap-debugger-updates/) (JetBrains)
+* [Exception popup, improved Smart Step Into, symbol servers, and more Rider 2018.1 EAP debugger updates](https://blog.jetbrains.com/dotnet/2018/03/08/exception-popup-improved-smart-step-symbol-servers-rider-2018-1-eap-debugger-updates/) (JetBrains)
+* [Memory View - Exploring .NET memory while debugging with Rider 2018.1](https://blog.jetbrains.com/dotnet/2018/04/03/memory-view-exploring-net-memory-debugging-rider-2018-1/) (JetBrains)
 
 ### Videos
 
