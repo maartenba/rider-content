@@ -40,7 +40,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Run web site projects, edit file properties and more project model updates in Rider](https://blog.jetbrains.com/dotnet/2018/03/13/run-web-site-projects-edit-file-properties-project-model-updates-rider/) (JetBrains)
 * [Roslyn analyzer support in Rider 2018.1 EAP](https://blog.jetbrains.com/dotnet/2018/03/22/roslyn-analyzer-support-rider-2018-1-eap/) (JetBrains)
 * [Viewing, filtering and navigation for log files in Rider 2018.1 EAP](https://blog.jetbrains.com/dotnet/2018/03/28/viewing-filtering-navigation-log-files-rider-2018-1-eap/) (JetBrains)
-* [Navigation improvements in Rider 2018.1 EAP](https://blog.jetbrains.com/dotnet/wp-admin/post.php?post=18397&action=edit) (JetBrains)
+* [Navigation improvements in Rider 2018.1 EAP](https://blog.jetbrains.com/dotnet/2018/04/04/navigation-improvements-rider-2018-1-eap/) (JetBrains)
 
 ### Videos
 
