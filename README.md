@@ -25,7 +25,6 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Working with TODO items in Rider](https://blog.jetbrains.com/dotnet/2017/05/11/working-todo-items-rider/) (JetBrains)
 * [Local History in Rider: undo and redo on steroids](https://blog.jetbrains.com/dotnet/2017/05/17/local-history-rider-undo-redo-steroids/) (JetBrains)
 * [Incremental build in Rider](https://blog.jetbrains.com/dotnet/2017/05/24/incremental-build-rider/) (JetBrains)
-* [Running Entity Framework (Core) commands in Rider](https://blog.jetbrains.com/dotnet/2017/08/09/running-entity-framework-core-commands-rider/) (JetBrains)
 * [Open files and folders, and more project model improvements in Rider](https://blog.jetbrains.com/dotnet/2017/09/28/open-files-folders-project-model-improvements-rider/) (JetBrains)
 * [Revert and reword Git commits, control commit message style with Rider](https://blog.jetbrains.com/dotnet/2017/09/29/revert-reword-git-commits-control-commit-message-style-rider/) (JetBrains)
 * [Find in Path gutter and more UI improvements in Rider 2017.2](https://blog.jetbrains.com/dotnet/2017/10/02/find-path-gutter-ui-improvements-rider-2017-2/) (JetBrains)
@@ -121,7 +120,9 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
   * [Getting started with database support in Rider](https://blog.jetbrains.com/dotnet/2018/03/15/getting-started-with-database-support-in-rider/) (JetBrains)
   * [Working with Tables and Indexes in Rider](https://blog.jetbrains.com/dotnet/2018/03/16/working-with-tables-and-indexes-in-rider/) (JetBrains)
   * [Working with Data in Rider](https://blog.jetbrains.com/dotnet/2018/03/19/working-data-rider/) (JetBrains)
-  
+* [Running Entity Framework (Core) commands in Rider](https://blog.jetbrains.com/dotnet/2017/08/09/running-entity-framework-core-commands-rider/) (JetBrains)
+* [Entity Framework support in Rider 2018.1](https://blog.jetbrains.com/dotnet/2018/04/06/entity-framework-support-rider-2018-1/) (JetBrains)
+
 ### Unity
 
 #### Blog posts and articles
