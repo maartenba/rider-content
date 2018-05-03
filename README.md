@@ -41,6 +41,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Viewing, filtering and navigation for log files in Rider 2018.1 EAP](https://blog.jetbrains.com/dotnet/2018/03/28/viewing-filtering-navigation-log-files-rider-2018-1-eap/) (JetBrains)
 * [Navigation improvements in Rider 2018.1 EAP](https://blog.jetbrains.com/dotnet/2018/04/04/navigation-improvements-rider-2018-1-eap/) (JetBrains)
 * [Improving Rider and ReSharper code analysis using JetBrains Annotations](http://blog.jetbrains.com/dotnet/2018/05/02/improving-rider-resharper-code-analysis-using-jetbrains-annotations/) (JetBrains)
+* [What are JetBrains Annotations - and how to get them?](https://blog.jetbrains.com/dotnet/2018/05/03/what-are-jetbrains-annotations/) (JetBrains)
 
 ### Videos
 
