@@ -43,6 +43,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Improving Rider and ReSharper code analysis using JetBrains Annotations](http://blog.jetbrains.com/dotnet/2018/05/02/improving-rider-resharper-code-analysis-using-jetbrains-annotations/) (JetBrains)
 * [What are JetBrains Annotations - and how to get them?](https://blog.jetbrains.com/dotnet/2018/05/03/what-are-jetbrains-annotations/) (JetBrains)
 * [Better null checks, string formatting and path completion with JetBrains Annotations](http://blog.jetbrains.com/dotnet/2018/05/04/better-null-checks-string-formatting-path-completion-jetbrains-annotations/) (JetBrains)
+* [Introduction to code analysis in Rider](https://blog.jetbrains.com/dotnet/2018/05/17/introduction-code-analysis-rider/) (JetBrains)
 
 ### Videos
 
