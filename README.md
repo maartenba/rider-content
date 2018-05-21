@@ -46,6 +46,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
   * [Better null checks, string formatting and path completion with JetBrains Annotations](http://blog.jetbrains.com/dotnet/2018/05/04/better-null-checks-string-formatting-path-completion-jetbrains-annotations/) (JetBrains)
 * Code analysis series
   * [Introduction to code analysis in Rider](https://blog.jetbrains.com/dotnet/2018/05/17/introduction-code-analysis-rider/) (JetBrains)
+  * [Solution-wide analysis in Rider](https://blog.jetbrains.com/dotnet/2018/05/21/solution-wide-analysis-rider/) (JetBrains)
 
 ### Videos
 
