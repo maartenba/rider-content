@@ -48,6 +48,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
   * [Introduction to code analysis in Rider](https://blog.jetbrains.com/dotnet/2018/05/17/introduction-code-analysis-rider/) (JetBrains)
   * [Solution-wide analysis in Rider](https://blog.jetbrains.com/dotnet/2018/05/21/solution-wide-analysis-rider/) (JetBrains)
   * [Using Rider to spot errors before our application runs](https://blog.jetbrains.com/dotnet/2018/05/22/using-rider-spot-errors-application-runs/) (JetBrains)
+  * [Learning best practices and language features using Rider code inspections](https://blog.jetbrains.com/dotnet/2018/05/23/learning-best-practices-language-features-using-rider-code-inspections/) (JetBrains)
 
 ### Videos
 
