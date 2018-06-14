@@ -147,6 +147,7 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [Working with external class libraries in Unity and Rider](https://blog.jetbrains.com/dotnet/2018/02/20/working-external-class-libraries-unity-rider/) (JetBrains)
 * [Control Unity editor play mode with Rider 2018.1](https://blog.jetbrains.com/dotnet/2018/04/05/control-unity-editor-play-mode-rider-2018-1/) (JetBrains)
 * [View Unity console logs directly in Rider 2018.1](https://blog.jetbrains.com/dotnet/2018/04/10/view-unity-console-logs-directly-rider-2018-1/) (JetBrains)
+* [Unity Explorer and new code inspections in Rider 2018.1](https://blog.jetbrains.com/dotnet/2018/06/14/unity-explorer-new-code-inspections-rider-2018-1/) (JetBrains)
 
 #### Videos
 
