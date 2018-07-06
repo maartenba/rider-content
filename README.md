@@ -52,6 +52,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
   * [Consistent code bases using Rider code analysis](https://blog.jetbrains.com/dotnet/2018/05/24/consistent-code-bases-using-rider-code-analysis/) (JetBrains)
 * [Version control improvements in Rider 2018.1](https://blog.jetbrains.com/dotnet/2018/06/05/version-control-improvements-rider-2018-1/) (JetBrains)
 * [Solution Explorer and Project Model updates in Rider 2018.2 EAP](https://blog.jetbrains.com/dotnet/2018/07/04/solution-explorer-project-model-updates-rider-2018-2-eap/) (JetBrains)
+* [Add references and debug code snippets in Rider C# Interactive](https://blog.jetbrains.com/dotnet/2018/07/06/add-references-debug-code-snippets-rider-c-interactive/) (JetBrains)
 
 ### Videos
 
