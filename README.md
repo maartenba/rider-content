@@ -108,6 +108,7 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [C# 7.0 and 7.1 support in ReSharper - Tuples](https://blog.jetbrains.com/dotnet/2017/10/24/c-7-0-7-1-support-resharper-tuples/) (JetBrains)
 * [C# 7.0 and 7.1 support in ReSharper - Pattern matching with generics](https://blog.jetbrains.com/dotnet/2017/10/25/c-7-0-7-1-support-resharper-pattern-matching-generics/) (JetBrains)
 * [C# 7.3 in Rider and ReSharper - Declaration expressions in initializers and queries](https://blog.jetbrains.com/dotnet/2018/07/12/declaration-expressions-in-initializers-and-queries/) (JetBrains)
+* [C# 7.3 in Rider and ReSharper - Tuple equality](https://blog.jetbrains.com/dotnet/2018/07/13/tuple-equality/) (JetBrains)
 
 ### F#
 
