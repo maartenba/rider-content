@@ -79,6 +79,7 @@ In this category, we explore Rider's debugger. There are various tips & tricks a
 * [Simultaneous debugging of JavaScript and .NET code with Rider](https://blog.jetbrains.com/dotnet/2018/01/17/simultaneous-debugging-javascript-net-code-rider/) (JetBrains)
 * [Exception popup, improved Smart Step Into, symbol servers, and more Rider 2018.1 EAP debugger updates](https://blog.jetbrains.com/dotnet/2018/03/08/exception-popup-improved-smart-step-symbol-servers-rider-2018-1-eap-debugger-updates/) (JetBrains)
 * [Memory View - Exploring .NET memory while debugging with Rider 2018.1](https://blog.jetbrains.com/dotnet/2018/04/03/memory-view-exploring-net-memory-debugging-rider-2018-1/) (JetBrains)
+* [Debugging ASP.NET Core apps in a local Docker container](https://blog.jetbrains.com/dotnet/2018/07/18/debugging-asp-net-core-apps-local-docker-container/) (JetBrains)
 
 ### Videos
 
