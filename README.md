@@ -110,6 +110,8 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [C# 7.0 and 7.1 support in ReSharper - Pattern matching with generics](https://blog.jetbrains.com/dotnet/2017/10/25/c-7-0-7-1-support-resharper-pattern-matching-generics/) (JetBrains)
 * [C# 7.3 in Rider and ReSharper - Declaration expressions in initializers and queries](https://blog.jetbrains.com/dotnet/2018/07/12/declaration-expressions-in-initializers-and-queries/) (JetBrains)
 * [C# 7.3 in Rider and ReSharper - Tuple equality](https://blog.jetbrains.com/dotnet/2018/07/13/tuple-equality/) (JetBrains)
+* [C# 7.3 in Rider and ReSharper - ← Debugging ASP.NET Core apps in a local Docker container
+Unmanaged, delegate and enum type constraints](https://blog.jetbrains.com/dotnet/2018/07/19/unmanaged-delegate-enum-type-constraints-c-7-3-rider-resharper/) (JetBrains)
 
 ### F#
 
