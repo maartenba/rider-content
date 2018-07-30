@@ -8,6 +8,7 @@ The list is divided into several sections such as tips and tricks, debugging, la
 
 * Follow [@JetBrainsRider on Twitter](https://twitter.com/JetBrainsRider)
 * Read the [JetBrains Rider blog](https://blog.jetbrains.com/dotnet/)
+* Issue Tracking on [YouTrack](https://youtrack.jetbrains.com/issues/rider)
 
 ## IDE tips and tricks
 
