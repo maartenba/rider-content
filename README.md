@@ -112,8 +112,8 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [C# 7.0 and 7.1 support in ReSharper - Pattern matching with generics](https://blog.jetbrains.com/dotnet/2017/10/25/c-7-0-7-1-support-resharper-pattern-matching-generics/) (JetBrains)
 * [C# 7.3 in Rider and ReSharper - Declaration expressions in initializers and queries](https://blog.jetbrains.com/dotnet/2018/07/12/declaration-expressions-in-initializers-and-queries/) (JetBrains)
 * [C# 7.3 in Rider and ReSharper - Tuple equality](https://blog.jetbrains.com/dotnet/2018/07/13/tuple-equality/) (JetBrains)
-* [C# 7.3 in Rider and ReSharper - ← Debugging ASP.NET Core apps in a local Docker container
-Unmanaged, delegate and enum type constraints](https://blog.jetbrains.com/dotnet/2018/07/19/unmanaged-delegate-enum-type-constraints-c-7-3-rider-resharper/) (JetBrains)
+* [C# 7.3 in Rider and ReSharper - Unmanaged, delegate and enum type constraints](https://blog.jetbrains.com/dotnet/2018/07/19/unmanaged-delegate-enum-type-constraints-c-7-3-rider-resharper/) (JetBrains)
+* [C# 7.3 in Rider and ReSharper - Ref local re-assignment](https://blog.jetbrains.com/dotnet/2018/07/24/ref-local-re-assignment/) (JetBrains)
 
 ### F#
 
@@ -133,6 +133,7 @@ Unmanaged, delegate and enum type constraints](https://blog.jetbrains.com/dotnet
 * [Web framework updates in Rider 2017.3 – Angular, Vue.js, ...](https://blog.jetbrains.com/dotnet/2018/02/22/web-framework-updates-rider-2017-3-angular-vue-js/) (JetBrains)
 * [Live Edit and Spy-JS in Rider 2017.3](https://blog.jetbrains.com/dotnet/2018/02/23/live-edit-spy-js-rider-2017-3/) (JetBrains)
 * [Web developer tools in Rider 2017.3: HTTP client and SVG editing](https://blog.jetbrains.com/dotnet/2018/02/26/web-developer-tools-rider-2017-3-http-client-svg-editing/) (JetBrains)
+* [Publishing ASP.NET Core web applications to IIS, FTP, and more with Rider 2018.2](https://blog.jetbrains.com/dotnet/2018/07/25/publishing-asp-net-core-web-applications-iis-ftp-rider-2018-2/) (JetBrains)
 
 ### WPF / XAML
 
