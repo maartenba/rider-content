@@ -57,6 +57,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Integrated spell checking with ReSpeller in ReSharper and Rider](https://blog.jetbrains.com/dotnet/2018/07/10/integrated-spell-checking-respeller-resharper-rider/) (JetBrains)
 * [More meaningful call stacks, thread-specific breakpoints and other debugger improvements in Rider 2018.2 EAP](https://blog.jetbrains.com/dotnet/2018/07/11/meaningful-call-stacks-thread-specific-breakpoints-debugger-improvements-rider-2018-2-eap/) (JetBrains)
 * [Unit test coverage and continuous testing. Now in Rider!](https://blog.jetbrains.com/dotnet/2018/07/20/unit-test-coverage-continuous-testing-now-rider/) (JetBrains)
+* [Code completion improvements in Rider 2018.2 EAP](https://blog.jetbrains.com/dotnet/2018/08/09/code-completion-improvements-rider-2018-2-eap/) (JetBrains)
 
 ### Videos
 
