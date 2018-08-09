@@ -55,6 +55,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Solution Explorer and Project Model updates in Rider 2018.2 EAP](https://blog.jetbrains.com/dotnet/2018/07/04/solution-explorer-project-model-updates-rider-2018-2-eap/) (JetBrains)
 * [Add references and debug code snippets in Rider C# Interactive](https://blog.jetbrains.com/dotnet/2018/07/06/add-references-debug-code-snippets-rider-c-interactive/) (JetBrains)
 * [Integrated spell checking with ReSpeller in ReSharper and Rider](https://blog.jetbrains.com/dotnet/2018/07/10/integrated-spell-checking-respeller-resharper-rider/) (JetBrains)
+* [SpecFlow steps generation and general Rider changes](https://kenbonny.net/2018/07/23/specflow-steps-generation-and-general-rider-changes/) (Community)
 * [More meaningful call stacks, thread-specific breakpoints and other debugger improvements in Rider 2018.2 EAP](https://blog.jetbrains.com/dotnet/2018/07/11/meaningful-call-stacks-thread-specific-breakpoints-debugger-improvements-rider-2018-2-eap/) (JetBrains)
 * [Unit test coverage and continuous testing. Now in Rider!](https://blog.jetbrains.com/dotnet/2018/07/20/unit-test-coverage-continuous-testing-now-rider/) (JetBrains)
 * [Code completion improvements in Rider 2018.2 EAP](https://blog.jetbrains.com/dotnet/2018/08/09/code-completion-improvements-rider-2018-2-eap/) (JetBrains)
