@@ -205,3 +205,4 @@ This category contains "a little bit of everything". Very often these are posts 
 * [Rider Release Candidate: performance, refactorings, Unity and more!](https://blog.jetbrains.com/dotnet/2017/07/14/rider-release-candidate-performance-refactorings-unity/) (JetBrains)
 * [Rider 2017.2 EAP brings .NET Core 2.0, MSTest, and more](https://blog.jetbrains.com/dotnet/2017/09/04/rider-2017-2-eap-brings-net-core-2-0-mstest/) (JetBrains)
 * [Rider 2018.2 Early Access Program is open!](https://blog.jetbrains.com/dotnet/2018/07/02/rider-2018-2-early-access-program-open/) (JetBrains)
+* [Generating a GUID in Rider, colored parameter info, custom runtime arguments in Rider 2018.2 EAP](https://blog.jetbrains.com/dotnet/2018/08/14/generating-guid-rider-colored-parameter-info-custom-runtime-arguments-rider-2018-2-eap/) (JetBrains)
