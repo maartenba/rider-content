@@ -116,6 +116,7 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [C# 7.3 in Rider and ReSharper - Tuple equality](https://blog.jetbrains.com/dotnet/2018/07/13/tuple-equality/) (JetBrains)
 * [C# 7.3 in Rider and ReSharper - Unmanaged, delegate and enum type constraints](https://blog.jetbrains.com/dotnet/2018/07/19/unmanaged-delegate-enum-type-constraints-c-7-3-rider-resharper/) (JetBrains)
 * [C# 7.3 in Rider and ReSharper - Ref local re-assignment](https://blog.jetbrains.com/dotnet/2018/07/24/ref-local-re-assignment/) (JetBrains)
+* [C# 7.3 in Rider and ReSharper - Fixed pattern](https://blog.jetbrains.com/dotnet/2018/08/27/fixed-pattern/) (JetBrains)
 
 ### F#
 
