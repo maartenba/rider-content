@@ -187,6 +187,7 @@ This category contains various blog posts and articles written by the community.
   * [Day 10 - Using JetBrains Rider with a .NET Core Console Application](http://michaelcrump.net/part10-aspnetcore/) (community)
 * [Project Rider: A Standalone ReSharper IDE](https://www.toptal.com/c-sharp/project-rider-a-standalone-resharper-ide) (community)
 * [A look a Rider for Visual Studio users](https://stackify.com/visual-studio-rider/) (community)
+* [First impressions of JetBrains Rider](https://jamesmckay.net/2018/08/first-impressions-of-jetbrains-rider/) (community)
 
 ## A little bit of everything
 
