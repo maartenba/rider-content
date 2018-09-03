@@ -60,6 +60,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Unit test coverage and continuous testing. Now in Rider!](https://blog.jetbrains.com/dotnet/2018/07/20/unit-test-coverage-continuous-testing-now-rider/) (JetBrains)
 * [Code completion improvements in Rider 2018.2 EAP](https://blog.jetbrains.com/dotnet/2018/08/09/code-completion-improvements-rider-2018-2-eap/) (JetBrains)
 * [Looking at the unit testing improvements in Rider 2018.2](https://blog.jetbrains.com/dotnet/2018/08/28/looking-unit-testing-improvements-rider-2018-2/) (JetBrains)
+* [Looking at NuGet improvements in Rider 2018.2](https://blog.jetbrains.com/dotnet/2018/09/03/looking-nuget-improvements-rider-2018-2/) (JetBrains)
 
 ### Videos
 
