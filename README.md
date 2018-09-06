@@ -61,6 +61,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Code completion improvements in Rider 2018.2 EAP](https://blog.jetbrains.com/dotnet/2018/08/09/code-completion-improvements-rider-2018-2-eap/) (JetBrains)
 * [Looking at the unit testing improvements in Rider 2018.2](https://blog.jetbrains.com/dotnet/2018/08/28/looking-unit-testing-improvements-rider-2018-2/) (JetBrains)
 * [Looking at NuGet improvements in Rider 2018.2](https://blog.jetbrains.com/dotnet/2018/09/03/looking-nuget-improvements-rider-2018-2/) (JetBrains)
+* [Live templates and file templates in Rider 2018.2](https://blog.jetbrains.com/dotnet/2018/09/06/live-templates-file-templates-rider-2018-2/) (JetBrains)
 
 ### Videos
 
