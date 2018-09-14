@@ -108,18 +108,20 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 
 ### C#
 
-* [C# 7.0 and 7.1 support in ReSharper - Out variables](https://blog.jetbrains.com/dotnet/2017/10/17/c-7-0-7-1-support-resharper-outvariables/) (JetBrains)
-* [C# 7.0 and 7.1 support in ReSharper - Throw expressions](https://blog.jetbrains.com/dotnet/2017/10/18/c-7-0-7-1-support-resharper-throw-expressions/) (JetBrains)
-* [C# 7.0 and 7.1 support in ReSharper - Expression-bodied everything](https://blog.jetbrains.com/dotnet/2017/10/19/c-7-0-7-1-support-resharper-expression-bodied-everything/) (JetBrains)
-* [C# 7.0 and 7.1 support in ReSharper - Async main](https://blog.jetbrains.com/dotnet/2017/10/20/c-7-0-7-1-support-resharper-asyncmain/) (JetBrains)
-* [C# 7.0 and 7.1 support in ReSharper - Default literal](https://blog.jetbrains.com/dotnet/2017/10/23/c-7-0-7-1-support-resharper-default-literal/) (JetBrains)
-* [C# 7.0 and 7.1 support in ReSharper - Tuples](https://blog.jetbrains.com/dotnet/2017/10/24/c-7-0-7-1-support-resharper-tuples/) (JetBrains)
-* [C# 7.0 and 7.1 support in ReSharper - Pattern matching with generics](https://blog.jetbrains.com/dotnet/2017/10/25/c-7-0-7-1-support-resharper-pattern-matching-generics/) (JetBrains)
-* [C# 7.3 in Rider and ReSharper - Declaration expressions in initializers and queries](https://blog.jetbrains.com/dotnet/2018/07/12/declaration-expressions-in-initializers-and-queries/) (JetBrains)
-* [C# 7.3 in Rider and ReSharper - Tuple equality](https://blog.jetbrains.com/dotnet/2018/07/13/tuple-equality/) (JetBrains)
-* [C# 7.3 in Rider and ReSharper - Unmanaged, delegate and enum type constraints](https://blog.jetbrains.com/dotnet/2018/07/19/unmanaged-delegate-enum-type-constraints-c-7-3-rider-resharper/) (JetBrains)
-* [C# 7.3 in Rider and ReSharper - Ref local re-assignment](https://blog.jetbrains.com/dotnet/2018/07/24/ref-local-re-assignment/) (JetBrains)
-* [C# 7.3 in Rider and ReSharper - Fixed pattern](https://blog.jetbrains.com/dotnet/2018/08/27/fixed-pattern/) (JetBrains)
+* C# 7.0 and 7.1 in Rider and ReSharper
+  * [Out variables](https://blog.jetbrains.com/dotnet/2017/10/17/c-7-0-7-1-support-resharper-outvariables/) (JetBrains)
+  * [Throw expressions](https://blog.jetbrains.com/dotnet/2017/10/18/c-7-0-7-1-support-resharper-throw-expressions/) (JetBrains)
+  * [Expression-bodied everything](https://blog.jetbrains.com/dotnet/2017/10/19/c-7-0-7-1-support-resharper-expression-bodied-everything/) (JetBrains)
+  * [Async main](https://blog.jetbrains.com/dotnet/2017/10/20/c-7-0-7-1-support-resharper-asyncmain/) (JetBrains)
+  * [Default literal](https://blog.jetbrains.com/dotnet/2017/10/23/c-7-0-7-1-support-resharper-default-literal/) (JetBrains)
+  * [Tuples](https://blog.jetbrains.com/dotnet/2017/10/24/c-7-0-7-1-support-resharper-tuples/) (JetBrains)
+  * [Pattern matching with generics](https://blog.jetbrains.com/dotnet/2017/10/25/c-7-0-7-1-support-resharper-pattern-matching-generics/) (JetBrains)
+* C# 7.3 in Rider and ReSharper
+  * [Declaration expressions in initializers and queries](https://blog.jetbrains.com/dotnet/2018/07/12/declaration-expressions-in-initializers-and-queries/) (JetBrains)
+  * [Tuple equality](https://blog.jetbrains.com/dotnet/2018/07/13/tuple-equality/) (JetBrains)
+  * [Unmanaged, delegate and enum type constraints](https://blog.jetbrains.com/dotnet/2018/07/19/unmanaged-delegate-enum-type-constraints-c-7-3-rider-resharper/) (JetBrains)
+  * [Ref local re-assignment](https://blog.jetbrains.com/dotnet/2018/07/24/ref-local-re-assignment/) (JetBrains)
+  * [Fixed pattern](https://blog.jetbrains.com/dotnet/2018/08/27/fixed-pattern/) (JetBrains)
 
 ### F#
 
