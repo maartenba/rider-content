@@ -16,6 +16,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 
 ### Blog posts and articles
 
+* [ReSharper/Rider Workshop - step by step exercises for navigation, editing, inspections, refactoring and more](https://github.com/JetBrains/resharper-rider-samples) (JetBrains)
 * [Working with multiple solutions in Rider](https://blog.jetbrains.com/dotnet/2017/02/09/working-with-multiple-solutions-in-rider/) (JetBrains)
 * [Rider EAP update: Code style settings and layers](https://blog.jetbrains.com/dotnet/2017/02/20/rider-eap-update-code-style-settings-layers/) (JetBrains)
 * [Rider EAP update: Working with NuGet](https://blog.jetbrains.com/dotnet/2017/02/27/rider-eap-update-working-nuget/) (JetBrains)
