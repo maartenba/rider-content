@@ -38,23 +38,11 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Unit testing improvements in Rider 2017.3](https://blog.jetbrains.com/dotnet/2017/12/12/unit-testing-improvements-rider-2017-3/) (JetBrains)
 * [Credential providers for private NuGet feeds in Rider 2018.1 EAP](https://blog.jetbrains.com/dotnet/2018/03/06/credential-providers-private-nuget-feeds-rider-2018-1-eap/) (JetBrains)
 * [Run web site projects, edit file properties and more project model updates in Rider](https://blog.jetbrains.com/dotnet/2018/03/13/run-web-site-projects-edit-file-properties-project-model-updates-rider/) (JetBrains)
-* [Roslyn analyzer support in Rider 2018.1 EAP](https://blog.jetbrains.com/dotnet/2018/03/22/roslyn-analyzer-support-rider-2018-1-eap/) (JetBrains)
 * [Viewing, filtering and navigation for log files in Rider 2018.1 EAP](https://blog.jetbrains.com/dotnet/2018/03/28/viewing-filtering-navigation-log-files-rider-2018-1-eap/) (JetBrains)
 * [Navigation improvements in Rider 2018.1 EAP](https://blog.jetbrains.com/dotnet/2018/04/04/navigation-improvements-rider-2018-1-eap/) (JetBrains)
-* JetBrains Annotations series
-  * [Improving Rider and ReSharper code analysis using JetBrains Annotations](http://blog.jetbrains.com/dotnet/2018/05/02/improving-rider-resharper-code-analysis-using-jetbrains-annotations/) (JetBrains)
-  * [What are JetBrains Annotations - and how to get them?](https://blog.jetbrains.com/dotnet/2018/05/03/what-are-jetbrains-annotations/) (JetBrains)
-  * [Better null checks, string formatting and path completion with JetBrains Annotations](http://blog.jetbrains.com/dotnet/2018/05/04/better-null-checks-string-formatting-path-completion-jetbrains-annotations/) (JetBrains)
-* Code analysis series
-  * [Introduction to code analysis in Rider](https://blog.jetbrains.com/dotnet/2018/05/17/introduction-code-analysis-rider/) (JetBrains)
-  * [Solution-wide analysis in Rider](https://blog.jetbrains.com/dotnet/2018/05/21/solution-wide-analysis-rider/) (JetBrains)
-  * [Using Rider to spot errors before our application runs](https://blog.jetbrains.com/dotnet/2018/05/22/using-rider-spot-errors-application-runs/) (JetBrains)
-  * [Learning best practices and language features using Rider code inspections](https://blog.jetbrains.com/dotnet/2018/05/23/learning-best-practices-language-features-using-rider-code-inspections/) (JetBrains)
-  * [Consistent code bases using Rider code analysis](https://blog.jetbrains.com/dotnet/2018/05/24/consistent-code-bases-using-rider-code-analysis/) (JetBrains)
 * [Version control improvements in Rider 2018.1](https://blog.jetbrains.com/dotnet/2018/06/05/version-control-improvements-rider-2018-1/) (JetBrains)
 * [Solution Explorer and Project Model updates in Rider 2018.2 EAP](https://blog.jetbrains.com/dotnet/2018/07/04/solution-explorer-project-model-updates-rider-2018-2-eap/) (JetBrains)
 * [Add references and debug code snippets in Rider C# Interactive](https://blog.jetbrains.com/dotnet/2018/07/06/add-references-debug-code-snippets-rider-c-interactive/) (JetBrains)
-* [Integrated spell checking with ReSpeller in ReSharper and Rider](https://blog.jetbrains.com/dotnet/2018/07/10/integrated-spell-checking-respeller-resharper-rider/) (JetBrains)
 * [SpecFlow steps generation and general Rider changes](https://kenbonny.net/2018/07/23/specflow-steps-generation-and-general-rider-changes/) (Community)
 * [More meaningful call stacks, thread-specific breakpoints and other debugger improvements in Rider 2018.2 EAP](https://blog.jetbrains.com/dotnet/2018/07/11/meaningful-call-stacks-thread-specific-breakpoints-debugger-improvements-rider-2018-2-eap/) (JetBrains)
 * [Unit test coverage and continuous testing. Now in Rider!](https://blog.jetbrains.com/dotnet/2018/07/20/unit-test-coverage-continuous-testing-now-rider/) (JetBrains)
@@ -93,14 +81,26 @@ In this category, we explore Rider's debugger. There are various tips & tricks a
 * [Mastering the debugger in Rider](https://www.youtube.com/watch?v=rKig5iTODHs) (JetBrains)
 * [Launching Multiple Projects in JetBrains Rider](https://www.youtube.com/watch?v=VtHjZSsLWfQ) (community)
 
-## Navigation, inspections and quick-fixes
+## Navigation, code analysis, inspections and quick-fixes
 
-In this category we look at navigating codebases, as well as things like automatic code inspections and quick-fixes.
+In this category we look at navigating codebases, as well as things like automatic code analysis, inspections and quick-fixes.
 
 * [Call and value tracking come to Rider](https://blog.jetbrains.com/dotnet/2017/09/27/call-value-tracking-come-rider/) (JetBrains)
 * [IEnumerable inspections and quick-fixes in ReSharper and Rider](https://blog.jetbrains.com/dotnet/2017/09/05/ienumerable-inspections-quick-fixes-resharper-rider/) (JetBrains)
 * [Improved XML documentation support in ReSharper and Rider](https://blog.jetbrains.com/dotnet/2017/09/06/improved-xml-documentation-support-resharper-rider/) (JetBrains)
 * [Multi-line import completion, code generation improvements in Rider 2017.2](https://blog.jetbrains.com/dotnet/2017/09/26/multi-line-import-completion-code-generation-improvements-rider-2017-2/) (JetBrains)
+* Code analysis series
+  * [Introduction to code analysis in Rider](https://blog.jetbrains.com/dotnet/2018/05/17/introduction-code-analysis-rider/) (JetBrains)
+  * [Solution-wide analysis in Rider](https://blog.jetbrains.com/dotnet/2018/05/21/solution-wide-analysis-rider/) (JetBrains)
+  * [Using Rider to spot errors before our application runs](https://blog.jetbrains.com/dotnet/2018/05/22/using-rider-spot-errors-application-runs/) (JetBrains)
+  * [Learning best practices and language features using Rider code inspections](https://blog.jetbrains.com/dotnet/2018/05/23/learning-best-practices-language-features-using-rider-code-inspections/) (JetBrains)
+  * [Consistent code bases using Rider code analysis](https://blog.jetbrains.com/dotnet/2018/05/24/consistent-code-bases-using-rider-code-analysis/) (JetBrains)
+* [Roslyn analyzer support in Rider 2018.1 EAP](https://blog.jetbrains.com/dotnet/2018/03/22/roslyn-analyzer-support-rider-2018-1-eap/) (JetBrains)
+* JetBrains Annotations series
+  * [Improving Rider and ReSharper code analysis using JetBrains Annotations](http://blog.jetbrains.com/dotnet/2018/05/02/improving-rider-resharper-code-analysis-using-jetbrains-annotations/) (JetBrains)
+  * [What are JetBrains Annotations - and how to get them?](https://blog.jetbrains.com/dotnet/2018/05/03/what-are-jetbrains-annotations/) (JetBrains)
+  * [Better null checks, string formatting and path completion with JetBrains Annotations](http://blog.jetbrains.com/dotnet/2018/05/04/better-null-checks-string-formatting-path-completion-jetbrains-annotations/) (JetBrains)
+* [Integrated spell checking with ReSpeller in ReSharper and Rider](https://blog.jetbrains.com/dotnet/2018/07/10/integrated-spell-checking-respeller-resharper-rider/) (JetBrains)
 
 ## Language support
 
