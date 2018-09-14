@@ -39,7 +39,6 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Credential providers for private NuGet feeds in Rider 2018.1 EAP](https://blog.jetbrains.com/dotnet/2018/03/06/credential-providers-private-nuget-feeds-rider-2018-1-eap/) (JetBrains)
 * [Run web site projects, edit file properties and more project model updates in Rider](https://blog.jetbrains.com/dotnet/2018/03/13/run-web-site-projects-edit-file-properties-project-model-updates-rider/) (JetBrains)
 * [Viewing, filtering and navigation for log files in Rider 2018.1 EAP](https://blog.jetbrains.com/dotnet/2018/03/28/viewing-filtering-navigation-log-files-rider-2018-1-eap/) (JetBrains)
-* [Navigation improvements in Rider 2018.1 EAP](https://blog.jetbrains.com/dotnet/2018/04/04/navigation-improvements-rider-2018-1-eap/) (JetBrains)
 * [Version control improvements in Rider 2018.1](https://blog.jetbrains.com/dotnet/2018/06/05/version-control-improvements-rider-2018-1/) (JetBrains)
 * [Solution Explorer and Project Model updates in Rider 2018.2 EAP](https://blog.jetbrains.com/dotnet/2018/07/04/solution-explorer-project-model-updates-rider-2018-2-eap/) (JetBrains)
 * [Add references and debug code snippets in Rider C# Interactive](https://blog.jetbrains.com/dotnet/2018/07/06/add-references-debug-code-snippets-rider-c-interactive/) (JetBrains)
@@ -89,6 +88,7 @@ In this category we look at navigating codebases, as well as things like automat
 * [IEnumerable inspections and quick-fixes in ReSharper and Rider](https://blog.jetbrains.com/dotnet/2017/09/05/ienumerable-inspections-quick-fixes-resharper-rider/) (JetBrains)
 * [Improved XML documentation support in ReSharper and Rider](https://blog.jetbrains.com/dotnet/2017/09/06/improved-xml-documentation-support-resharper-rider/) (JetBrains)
 * [Multi-line import completion, code generation improvements in Rider 2017.2](https://blog.jetbrains.com/dotnet/2017/09/26/multi-line-import-completion-code-generation-improvements-rider-2017-2/) (JetBrains)
+* [Navigation improvements in Rider 2018.1 EAP](https://blog.jetbrains.com/dotnet/2018/04/04/navigation-improvements-rider-2018-1-eap/) (JetBrains)
 * Code analysis series
   * [Introduction to code analysis in Rider](https://blog.jetbrains.com/dotnet/2018/05/17/introduction-code-analysis-rider/) (JetBrains)
   * [Solution-wide analysis in Rider](https://blog.jetbrains.com/dotnet/2018/05/21/solution-wide-analysis-rider/) (JetBrains)
