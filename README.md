@@ -123,6 +123,7 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
   * [Unmanaged, delegate and enum type constraints](https://blog.jetbrains.com/dotnet/2018/07/19/unmanaged-delegate-enum-type-constraints-c-7-3-rider-resharper/) (JetBrains)
   * [Ref local re-assignment](https://blog.jetbrains.com/dotnet/2018/07/24/ref-local-re-assignment/) (JetBrains)
   * [Fixed pattern](https://blog.jetbrains.com/dotnet/2018/08/27/fixed-pattern/) (JetBrains)
+  * [C# updates for stackalloc](https://blog.jetbrains.com/dotnet/2018/09/17/c-sharp-updates-for-stackalloc/) (JetBrains)
 
 ### F#
 
