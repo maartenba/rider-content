@@ -175,6 +175,7 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [Unity Explorer and new code inspections in Rider 2018.1](https://blog.jetbrains.com/dotnet/2018/06/14/unity-explorer-new-code-inspections-rider-2018-1/) (JetBrains)
 * [Unity Package Explorer in Rider 2018.2](https://blog.jetbrains.com/dotnet/2018/09/19/unity-package-explorer-rider-2018-2/) (JetBrains)
 * [Unity Assembly Definition Files and Rider 2018.2](https://blog.jetbrains.com/dotnet/2018/09/26/unity-assembly-definition-files-rider-2018-2/) (JetBrains)
+* [Integrating Rider 2018.2 and the Unity Editor](https://blog.jetbrains.com/dotnet/2018/10/03/integrating-rider-2018-2-unity-editor/) (JetBrains)
 
 #### Videos
 
