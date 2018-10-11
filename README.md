@@ -104,6 +104,7 @@ In this category we look at navigating codebases, as well as things like automat
   * [Better null checks, string formatting and path completion with JetBrains Annotations](http://blog.jetbrains.com/dotnet/2018/05/04/better-null-checks-string-formatting-path-completion-jetbrains-annotations/) (JetBrains)
 * [Integrated spell checking with ReSpeller in ReSharper and Rider](https://blog.jetbrains.com/dotnet/2018/07/10/integrated-spell-checking-respeller-resharper-rider/) (JetBrains)
 * [Roslyn Analyzer Rulesets and stylecop.json support in Rider 2018.2](https://blog.jetbrains.com/dotnet/2018/09/24/roslyn-analyzer-rulesets-stylecop-json-support-rider-2018-2/) (JetBrains)
+* [Tuples, deconstruction, string interpolation – improved inspections and quick fixes in ReSharper and Rider 2018.3 EAP](https://blog.jetbrains.com/dotnet/2018/10/11/tuples-deconstruction-string-interpolation-improved-inspections-quick-fixes-resharper-rider-2018-3-eap/) (JetBrains)
 
 ## Language support
 
