@@ -51,6 +51,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Looking at NuGet improvements in Rider 2018.2](https://blog.jetbrains.com/dotnet/2018/09/03/looking-nuget-improvements-rider-2018-2/) (JetBrains)
 * [Live templates and file templates in Rider 2018.2](https://blog.jetbrains.com/dotnet/2018/09/06/live-templates-file-templates-rider-2018-2/) (JetBrains)
 * [Add missing packages, faster search and more NuGet improvements in Rider 2018.3 EAP](https://blog.jetbrains.com/dotnet/2018/10/10/add-missing-packages-faster-search-nuget-improvements-rider-2018-3-eap/) (JetBrains)
+* [Deploy web apps, explore resources and more – Introducing the Azure Toolkit for Rider](https://blog.jetbrains.com/dotnet/2018/10/16/deploy-web-apps-explore-resources-introducing-azure-toolkit-rider/) (JetBrains)
 
 ### Videos
 
