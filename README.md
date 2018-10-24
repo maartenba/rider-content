@@ -53,6 +53,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Add missing packages, faster search and more NuGet improvements in Rider 2018.3 EAP](https://blog.jetbrains.com/dotnet/2018/10/10/add-missing-packages-faster-search-nuget-improvements-rider-2018-3-eap/) (JetBrains)
 * [Deploy web apps, explore resources and more – Introducing the Azure Toolkit for Rider](https://blog.jetbrains.com/dotnet/2018/10/16/deploy-web-apps-explore-resources-introducing-azure-toolkit-rider/) (JetBrains)
 * [Performance profiling .NET code in Rider with integrated dotTrace](https://blog.jetbrains.com/dotnet/2018/10/22/performance-profiling-net-code-rider-integrated-dottrace/) (JetBrains)
+* [Rider 2018.3 assembly explorer and cross-platform .NET decompiler](https://blog.jetbrains.com/dotnet/2018/10/24/rider-2018-3-assembly-explorer-cross-platform-net-decompiler/) (JetBrains)
 
 ### Videos
 
