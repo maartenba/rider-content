@@ -139,6 +139,10 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [Navigation, find usages, file structure for F# scripts in Rider 2018.1 EAP!](https://blog.jetbrains.com/dotnet/2018/03/27/navigation-find-usages-file-structure-f-scripts-rider-2018-1-eap/) (JetBrains)
 * [Rider 2018.1 brings file ordering to F# projects](https://blog.jetbrains.com/dotnet/2018/04/11/rider-2018-1-brings-file-ordering-f-projects/) (JetBrains)
 
+### VB.NET
+
+* [Named tuple inference, leading digit separator, non-trailing named arguments – VB.NET 15.3 and 15.5 language features in ReSharper and Rider](https://blog.jetbrains.com/dotnet/2018/11/12/named-tuple-inference-leading-digit-separator-non-trailing-named-arguments-vb-net-15-3-15-5-language-features-resharper-rider/) (JetBrains)
+
 ### JavaScript and TypeScript
 
 * [Better JavaScript and TypeScript support in Rider 2017.2](https://blog.jetbrains.com/dotnet/2017/09/25/better-javascript-typescript-support-rider-2017-2/) (JetBrains)
