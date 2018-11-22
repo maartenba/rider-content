@@ -55,6 +55,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Performance profiling .NET code in Rider with integrated dotTrace](https://blog.jetbrains.com/dotnet/2018/10/22/performance-profiling-net-code-rider-integrated-dottrace/) (JetBrains)
 * [Rider 2018.3 assembly explorer and cross-platform .NET decompiler](https://blog.jetbrains.com/dotnet/2018/10/24/rider-2018-3-assembly-explorer-cross-platform-net-decompiler/) (JetBrains)
 * [Using .NET Core launchSettings.json to run/debug apps in Rider](https://blog.jetbrains.com/dotnet/2018/11/08/using-net-core-launchsettings-json-rundebug-apps-rider/) (JetBrains)
+* [Renaming projects the easy way – new refactoring in Rider 2018.3](https://blog.jetbrains.com/dotnet/2018/11/21/renaming-projects-easy-way-new-refactoring-rider-2018-3/) (JetBrains)
 
 ### Videos
 
