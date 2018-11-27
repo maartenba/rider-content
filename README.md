@@ -56,6 +56,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Rider 2018.3 assembly explorer and cross-platform .NET decompiler](https://blog.jetbrains.com/dotnet/2018/10/24/rider-2018-3-assembly-explorer-cross-platform-net-decompiler/) (JetBrains)
 * [Using .NET Core launchSettings.json to run/debug apps in Rider](https://blog.jetbrains.com/dotnet/2018/11/08/using-net-core-launchsettings-json-rundebug-apps-rider/) (JetBrains)
 * [Renaming projects the easy way – new refactoring in Rider 2018.3](https://blog.jetbrains.com/dotnet/2018/11/21/renaming-projects-easy-way-new-refactoring-rider-2018-3/) (JetBrains)
+* [Inline parameter name hints for C# and VB.NET in ReSharper and Rider}(https://blog.jetbrains.com/dotnet/2018/11/27/inline-parameter-name-hints-c-vb-net-resharper-rider/) (JetBrains)
 
 ### Videos
 
