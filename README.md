@@ -42,9 +42,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Viewing, filtering and navigation for log files in Rider 2018.1 EAP](https://blog.jetbrains.com/dotnet/2018/03/28/viewing-filtering-navigation-log-files-rider-2018-1-eap/) (JetBrains)
 * [Version control improvements in Rider 2018.1](https://blog.jetbrains.com/dotnet/2018/06/05/version-control-improvements-rider-2018-1/) (JetBrains)
 * [Solution Explorer and Project Model updates in Rider 2018.2 EAP](https://blog.jetbrains.com/dotnet/2018/07/04/solution-explorer-project-model-updates-rider-2018-2-eap/) (JetBrains)
-* [Add references and debug code snippets in Rider C# Interactive](https://blog.jetbrains.com/dotnet/2018/07/06/add-references-debug-code-snippets-rider-c-interactive/) (JetBrains)
 * [SpecFlow steps generation and general Rider changes](https://kenbonny.net/2018/07/23/specflow-steps-generation-and-general-rider-changes/) (Community)
-* [More meaningful call stacks, thread-specific breakpoints and other debugger improvements in Rider 2018.2 EAP](https://blog.jetbrains.com/dotnet/2018/07/11/meaningful-call-stacks-thread-specific-breakpoints-debugger-improvements-rider-2018-2-eap/) (JetBrains)
 * [Unit test coverage and continuous testing. Now in Rider!](https://blog.jetbrains.com/dotnet/2018/07/20/unit-test-coverage-continuous-testing-now-rider/) (JetBrains)
 * [Code completion improvements in Rider 2018.2 EAP](https://blog.jetbrains.com/dotnet/2018/08/09/code-completion-improvements-rider-2018-2-eap/) (JetBrains)
 * [Looking at the unit testing improvements in Rider 2018.2](https://blog.jetbrains.com/dotnet/2018/08/28/looking-unit-testing-improvements-rider-2018-2/) (JetBrains)
@@ -54,7 +52,6 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Deploy web apps, explore resources and more – Introducing the Azure Toolkit for Rider](https://blog.jetbrains.com/dotnet/2018/10/16/deploy-web-apps-explore-resources-introducing-azure-toolkit-rider/) (JetBrains)
 * [Performance profiling .NET code in Rider with integrated dotTrace](https://blog.jetbrains.com/dotnet/2018/10/22/performance-profiling-net-code-rider-integrated-dottrace/) (JetBrains)
 * [Rider 2018.3 assembly explorer and cross-platform .NET decompiler](https://blog.jetbrains.com/dotnet/2018/10/24/rider-2018-3-assembly-explorer-cross-platform-net-decompiler/) (JetBrains)
-* [Using .NET Core launchSettings.json to run/debug apps in Rider](https://blog.jetbrains.com/dotnet/2018/11/08/using-net-core-launchsettings-json-rundebug-apps-rider/) (JetBrains)
 * [Renaming projects the easy way – new refactoring in Rider 2018.3](https://blog.jetbrains.com/dotnet/2018/11/21/renaming-projects-easy-way-new-refactoring-rider-2018-3/) (JetBrains)
 * [Inline parameter name hints for C# and VB.NET in ReSharper and Rider}(https://blog.jetbrains.com/dotnet/2018/11/27/inline-parameter-name-hints-c-vb-net-resharper-rider/) (JetBrains)
 
@@ -82,6 +79,9 @@ In this category, we explore Rider's debugger. There are various tips & tricks a
 * [Exception popup, improved Smart Step Into, symbol servers, and more Rider 2018.1 EAP debugger updates](https://blog.jetbrains.com/dotnet/2018/03/08/exception-popup-improved-smart-step-symbol-servers-rider-2018-1-eap-debugger-updates/) (JetBrains)
 * [Memory View - Exploring .NET memory while debugging with Rider 2018.1](https://blog.jetbrains.com/dotnet/2018/04/03/memory-view-exploring-net-memory-debugging-rider-2018-1/) (JetBrains)
 * [Debugging ASP.NET Core apps in a local Docker container](https://blog.jetbrains.com/dotnet/2018/07/18/debugging-asp-net-core-apps-local-docker-container/) (JetBrains)
+* [Add references and debug code snippets in Rider C# Interactive](https://blog.jetbrains.com/dotnet/2018/07/06/add-references-debug-code-snippets-rider-c-interactive/) (JetBrains)
+* [More meaningful call stacks, thread-specific breakpoints and other debugger improvements in Rider 2018.2 EAP](https://blog.jetbrains.com/dotnet/2018/07/11/meaningful-call-stacks-thread-specific-breakpoints-debugger-improvements-rider-2018-2-eap/) (JetBrains)
+* [Using .NET Core launchSettings.json to run/debug apps in Rider](https://blog.jetbrains.com/dotnet/2018/11/08/using-net-core-launchsettings-json-rundebug-apps-rider/) (JetBrains)
 
 ### Videos
 
