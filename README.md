@@ -82,6 +82,7 @@ In this category, we explore Rider's debugger. There are various tips & tricks a
 * [Add references and debug code snippets in Rider C# Interactive](https://blog.jetbrains.com/dotnet/2018/07/06/add-references-debug-code-snippets-rider-c-interactive/) (JetBrains)
 * [More meaningful call stacks, thread-specific breakpoints and other debugger improvements in Rider 2018.2 EAP](https://blog.jetbrains.com/dotnet/2018/07/11/meaningful-call-stacks-thread-specific-breakpoints-debugger-improvements-rider-2018-2-eap/) (JetBrains)
 * [Using .NET Core launchSettings.json to run/debug apps in Rider](https://blog.jetbrains.com/dotnet/2018/11/08/using-net-core-launchsettings-json-rundebug-apps-rider/) (JetBrains)
+* [Remote debugging comes to Rider 2018.3!](https://blog.jetbrains.com/dotnet/2018/11/29/remote-debugging-comes-rider-2018-3/) (JetBrains)
 
 ### Videos
 
