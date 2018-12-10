@@ -55,6 +55,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Renaming projects the easy way – new refactoring in Rider 2018.3](https://blog.jetbrains.com/dotnet/2018/11/21/renaming-projects-easy-way-new-refactoring-rider-2018-3/) (JetBrains)
 * [Inline parameter name hints for C# and VB.NET in ReSharper and Rider](https://blog.jetbrains.com/dotnet/2018/11/27/inline-parameter-name-hints-c-vb-net-resharper-rider/) (JetBrains)
 * [Work with databases and the Azure Cloud Shell – Azure Toolkit for Rider 2018.3 EAP](https://blog.jetbrains.com/dotnet/2018/12/03/work-databases-azure-cloud-shell-azure-toolkit-rider-2018-3-eap/) (JetBrains)
+* [Code Vision in Rider: Enriching the editor with contextual information and navigation](http://blog.jetbrains.com/dotnet/2018/12/10/code-vision-rider-enriching-editor-contextual-information-navigation/) (JetBrains)
 
 ### Videos
 
