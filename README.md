@@ -58,6 +58,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Code Vision in Rider: Enriching the editor with contextual information and navigation](http://blog.jetbrains.com/dotnet/2018/12/10/code-vision-rider-enriching-editor-contextual-information-navigation/) (JetBrains)
 * [Unit testing receives major updates in ReSharper and Rider 2018.3 EAP](https://blog.jetbrains.com/dotnet/2018/12/12/unit-testing-receives-major-updates-resharper-rider-2018-3-eap/) (JetBrains)
 * [.editorconfig updates, more build options, better Roslyn support in Rider 2018.3 EAP](https://blog.jetbrains.com/dotnet/2018/12/13/editorconfig-updates-build-options-better-roslyn-support-rider-2018-3-eap/) (JetBrains)
+* [A Look at what’s new in Rider 2018.3: Code Completion, TODO and More](https://blog.jetbrains.com/dotnet/2019/01/02/a-look-at-whats-new-in-rider-2018-3-3/) (JetBrains)
 
 ### Videos
 
