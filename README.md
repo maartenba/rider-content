@@ -146,6 +146,7 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [F# support improvements in Rider 2017.2](https://blog.jetbrains.com/dotnet/2017/10/10/f-support-improvements-rider-2017-2/) (JetBrains)
 * [Navigation, find usages, file structure for F# scripts in Rider 2018.1 EAP!](https://blog.jetbrains.com/dotnet/2018/03/27/navigation-find-usages-file-structure-f-scripts-rider-2018-1-eap/) (JetBrains)
 * [Rider 2018.1 brings file ordering to F# projects](https://blog.jetbrains.com/dotnet/2018/04/11/rider-2018-1-brings-file-ordering-f-projects/) (JetBrains)
+* [Typing assists, code analysis for unused opens and more F# updates in Rider](https://blog.jetbrains.com/dotnet/2019/01/07/typing-assists-code-analysis-unused-opens-f-updates-rider/) (JetBrains)
 
 ### VB.NET
 
