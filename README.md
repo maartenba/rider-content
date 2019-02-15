@@ -65,6 +65,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 
 ### Videos
 
+* [Be More Productive with JetBrains Rider](https://www.youtube.com/watch?v=rPpaT6F_FnM) (community)
 * [JetBrains Rider - New Cross-Platform .NET IDE Overview](https://www.youtube.com/watch?v=xkPtX492IhI&t=137s) (JetBrains)
 * [Introducing Rider](https://www.youtube.com/watch?v=v51ljZ39AHA&t=3038s) (JetBrains)
 * [Become a Productive .NET Developer with JetBrains Rider](https://www.youtube.com/watch?v=yg7C4QNVjk0) (JetBrains)
