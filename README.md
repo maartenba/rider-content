@@ -62,6 +62,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Performance Profiling in Rider 2018.3. What’s New?](https://blog.jetbrains.com/dotnet/2019/01/17/performance-profiling-rider-2018-3-whats-new/) (JetBrains)
 * [Keeping Track of Issues and Tasks in Rider](https://blog.jetbrains.com/dotnet/2019/02/12/keeping-track-issues-tasks-rider/) (JetBrains)
 * [Writing plugins for ReSharper and Rider](https://blog.jetbrains.com/dotnet/2019/02/14/writing-plugins-resharper-rider/) (JetBrains)
+* [Exploring exception stack traces with ReSharper and Rider](https://blog.jetbrains.com/dotnet/2019/02/26/exploring-exception-stack-traces-resharper-rider/) (JetBrains)
 
 ### Videos
 
