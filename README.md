@@ -53,16 +53,13 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Performance profiling .NET code in Rider with integrated dotTrace](https://blog.jetbrains.com/dotnet/2018/10/22/performance-profiling-net-code-rider-integrated-dottrace/) (JetBrains)
 * [Rider 2018.3 assembly explorer and cross-platform .NET decompiler](https://blog.jetbrains.com/dotnet/2018/10/24/rider-2018-3-assembly-explorer-cross-platform-net-decompiler/) (JetBrains)
 * [Renaming projects the easy way – new refactoring in Rider 2018.3](https://blog.jetbrains.com/dotnet/2018/11/21/renaming-projects-easy-way-new-refactoring-rider-2018-3/) (JetBrains)
-* [Inline parameter name hints for C# and VB.NET in ReSharper and Rider](https://blog.jetbrains.com/dotnet/2018/11/27/inline-parameter-name-hints-c-vb-net-resharper-rider/) (JetBrains)
 * [Work with databases and the Azure Cloud Shell – Azure Toolkit for Rider 2018.3 EAP](https://blog.jetbrains.com/dotnet/2018/12/03/work-databases-azure-cloud-shell-azure-toolkit-rider-2018-3-eap/) (JetBrains)
 * [Code Vision in Rider: Enriching the editor with contextual information and navigation](http://blog.jetbrains.com/dotnet/2018/12/10/code-vision-rider-enriching-editor-contextual-information-navigation/) (JetBrains)
 * [Unit testing receives major updates in ReSharper and Rider 2018.3 EAP](https://blog.jetbrains.com/dotnet/2018/12/12/unit-testing-receives-major-updates-resharper-rider-2018-3-eap/) (JetBrains)
 * [.editorconfig updates, more build options, better Roslyn support in Rider 2018.3 EAP](https://blog.jetbrains.com/dotnet/2018/12/13/editorconfig-updates-build-options-better-roslyn-support-rider-2018-3-eap/) (JetBrains)
-* [A Look at what’s new in Rider 2018.3: Code Completion, TODO and More](https://blog.jetbrains.com/dotnet/2019/01/02/a-look-at-whats-new-in-rider-2018-3-3/) (JetBrains)
 * [Performance Profiling in Rider 2018.3. What’s New?](https://blog.jetbrains.com/dotnet/2019/01/17/performance-profiling-rider-2018-3-whats-new/) (JetBrains)
 * [Keeping Track of Issues and Tasks in Rider](https://blog.jetbrains.com/dotnet/2019/02/12/keeping-track-issues-tasks-rider/) (JetBrains)
 * [Writing plugins for ReSharper and Rider](https://blog.jetbrains.com/dotnet/2019/02/14/writing-plugins-resharper-rider/) (JetBrains)
-* [Exploring exception stack traces with ReSharper and Rider](https://blog.jetbrains.com/dotnet/2019/02/26/exploring-exception-stack-traces-resharper-rider/) (JetBrains)
 * [Connecting to a Microsoft SQL Server Linux Docker Container from Rider](https://blog.jetbrains.com/dotnet/2019/03/05/connecting-microsoft-sql-server-linux-docker-container-rider/) (JetBrains)
 
 ### Videos
@@ -123,6 +120,9 @@ In this category we look at navigating codebases, as well as things like automat
 * [Integrated spell checking with ReSpeller in ReSharper and Rider](https://blog.jetbrains.com/dotnet/2018/07/10/integrated-spell-checking-respeller-resharper-rider/) (JetBrains)
 * [Roslyn Analyzer Rulesets and stylecop.json support in Rider 2018.2](https://blog.jetbrains.com/dotnet/2018/09/24/roslyn-analyzer-rulesets-stylecop-json-support-rider-2018-2/) (JetBrains)
 * [Tuples, deconstruction, string interpolation – improved inspections and quick fixes in ReSharper and Rider 2018.3 EAP](https://blog.jetbrains.com/dotnet/2018/10/11/tuples-deconstruction-string-interpolation-improved-inspections-quick-fixes-resharper-rider-2018-3-eap/) (JetBrains)
+* [Inline parameter name hints for C# and VB.NET in ReSharper and Rider](https://blog.jetbrains.com/dotnet/2018/11/27/inline-parameter-name-hints-c-vb-net-resharper-rider/) (JetBrains)
+* [A Look at what’s new in Rider 2018.3: Code Completion, TODO and More](https://blog.jetbrains.com/dotnet/2019/01/02/a-look-at-whats-new-in-rider-2018-3-3/) (JetBrains)
+* [Exploring exception stack traces with ReSharper and Rider](https://blog.jetbrains.com/dotnet/2019/02/26/exploring-exception-stack-traces-resharper-rider/) (JetBrains)
 
 ## Language support
 
