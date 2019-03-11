@@ -172,6 +172,7 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [Publishing ASP.NET Core web applications to IIS, FTP, and more with Rider 2018.2](https://blog.jetbrains.com/dotnet/2018/07/25/publishing-asp-net-core-web-applications-iis-ftp-rider-2018-2/) (JetBrains)
 * [Minifying JS and CSS files with Rider File Watchers](https://kenbonny.net/2018/08/13/minifying-js-and-css-files-with-rider-file-watchers/) (Community)
 * [Testing and Profiling ASP.NET Core REST API's from Rider, part 1](https://blog.jetbrains.com/dotnet/2019/03/07/testing-and-profiling-asp-net-core-rest-apis-from-rider-part1/) (JetBrains)
+* [Testing and Profiling ASP.NET Core REST API's from Rider, part 2](https://blog.jetbrains.com/dotnet/2019/03/11/testing-profiling-asp-net-core-rest-apis-rider-part2/) (JetBrains)
 
 ### WPF / XAML
 
