@@ -62,6 +62,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Writing plugins for ReSharper and Rider](https://blog.jetbrains.com/dotnet/2019/02/14/writing-plugins-resharper-rider/) (JetBrains)
 * [Connecting to a Microsoft SQL Server Linux Docker Container from Rider](https://blog.jetbrains.com/dotnet/2019/03/05/connecting-microsoft-sql-server-linux-docker-container-rider/) (JetBrains)
 * [Profiling Mono and Mono Unity Apps on Windows, macOS, and Linux](https://blog.jetbrains.com/dotnet/2019/04/03/profiling-mono-mono-unity-apps-windows-macos-linux/) (JetBrains)
+* [Code Coverage on macOS and Linux in Rider 2019.1](https://blog.jetbrains.com/dotnet/2019/04/10/code-coverage-macos-linux-rider-2019-1/) (JetBrains)
 * [Unit Testing Improvements in Rider 2019.1](https://blog.jetbrains.com/dotnet/2019/04/08/unit-testing-improvements-rider-2019-1/) (JetBrains)
 
 ### Videos
