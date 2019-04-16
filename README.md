@@ -95,6 +95,7 @@ In this category, we explore Rider's debugger. There are various tips & tricks a
 * [More meaningful call stacks, thread-specific breakpoints and other debugger improvements in Rider 2018.2 EAP](https://blog.jetbrains.com/dotnet/2018/07/11/meaningful-call-stacks-thread-specific-breakpoints-debugger-improvements-rider-2018-2-eap/) (JetBrains)
 * [Using .NET Core launchSettings.json to run/debug apps in Rider](https://blog.jetbrains.com/dotnet/2018/11/08/using-net-core-launchsettings-json-rundebug-apps-rider/) (JetBrains)
 * [Remote debugging comes to Rider 2018.3!](https://blog.jetbrains.com/dotnet/2018/11/29/remote-debugging-comes-rider-2018-3/) (JetBrains)
+* [Edit & Continue, Just-in-time Debugging, and more debugger improvements in Rider 2019.1](https://blog.jetbrains.com/dotnet/2019/04/16/edit-continue-just-time-debugging-debugger-improvements-rider-2019-1/) (JetBrains)
 
 ### Videos
 
