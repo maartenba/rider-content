@@ -218,6 +218,10 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 
 * [Rider for Unity development](https://www.youtube.com/watch?v=RaY3Q5v5hjg) (JetBrains)
 
+## Xamarin
+
+* [Troubleshooting JetBrains Rider and Visual Studio 2019 Xamarin Development](https://www.andrewhoefling.com/Blog/Post/troubleshooting-jetbrains-rider-and-visual-studio-2019-xamarin-development) (community)
+
 ## Community
 
 This category contains various blog posts and articles written by the community.
