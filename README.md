@@ -67,6 +67,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Breadcrumbs, structural navigation, parameter info tooltips and more editor improvements in Rider 2019.1](http://blog.jetbrains.com/dotnet/2019/04/11/breadcrumbs-structural-navigation-parameter-info-tooltips-editor-improvements-rider-2019-1/) (JetBrains)
 * [Developing Windows Forms Applications in Rider 2019.1](https://blog.jetbrains.com/dotnet/2019/04/26/developing-windows-forms-applications-rider-2019-1/) (JetBrains)
 * [Building Azure Functions, SQL database improvements and more - Azure Toolkit for Rider 2019.1](https://blog.jetbrains.com/dotnet/2019/05/09/building-azure-functions-sql-database-improvements-azure-toolkit-rider-2019-1/) (JetBrains)
+* [Containers? Images? An introduction to Docker in Rider](https://blog.jetbrains.com/dotnet/2019/05/21/containers-images-introduction-docker-rider/) (JetBrains)
 
 ### Videos
 
