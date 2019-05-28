@@ -156,6 +156,7 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * C# 8 in Rider and ReSharper
   * [Indices, Ranges, and Null-coalescing Assignments – A Look at New language features in C# 8](https://blog.jetbrains.com/dotnet/2019/04/24/indices-ranges-null-coalescing-assignments-look-new-language-features-c-8/) (JetBrains)
   * [Switch Expressions and Pattern-Based Usings](https://blog.jetbrains.com/dotnet/2019/05/14/switch-expressions-pattern-based-usings-look-new-language-features-c-8/) (JetBrains)
+  * [Recursive Pattern Matching](http://blog.jetbrains.com/dotnet/2019/05/28/recursive-pattern-matching-look-new-language-features-c-8/) (JetBrains)
   
 ### F#
 
