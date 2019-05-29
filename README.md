@@ -68,6 +68,8 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Developing Windows Forms Applications in Rider 2019.1](https://blog.jetbrains.com/dotnet/2019/04/26/developing-windows-forms-applications-rider-2019-1/) (JetBrains)
 * [Building Azure Functions, SQL database improvements and more - Azure Toolkit for Rider 2019.1](https://blog.jetbrains.com/dotnet/2019/05/09/building-azure-functions-sql-database-improvements-azure-toolkit-rider-2019-1/) (JetBrains)
 * [Containers? Images? An introduction to Docker in Rider](https://blog.jetbrains.com/dotnet/2019/05/21/containers-images-introduction-docker-rider/) (JetBrains)
+* Awesome Plugins for Rider
+  * [Language Support](https://blog.jetbrains.com/dotnet/2019/05/29/awesome-plugins-rider-language-support/) (JetBrains)
 
 ### Videos
 
@@ -156,7 +158,6 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * C# 8 in Rider and ReSharper
   * [Indices, Ranges, and Null-coalescing Assignments – A Look at New language features in C# 8](https://blog.jetbrains.com/dotnet/2019/04/24/indices-ranges-null-coalescing-assignments-look-new-language-features-c-8/) (JetBrains)
   * [Switch Expressions and Pattern-Based Usings](https://blog.jetbrains.com/dotnet/2019/05/14/switch-expressions-pattern-based-usings-look-new-language-features-c-8/) (JetBrains)
-  * [Recursive Pattern Matching](http://blog.jetbrains.com/dotnet/2019/05/29/recursive-pattern-matching-look-new-language-features-c-8/) (JetBrains)
   
 ### F#
 
