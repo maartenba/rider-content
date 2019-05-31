@@ -70,6 +70,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Containers? Images? An introduction to Docker in Rider](https://blog.jetbrains.com/dotnet/2019/05/21/containers-images-introduction-docker-rider/) (JetBrains)
 * Awesome Plugins for Rider
   * [Language Support](https://blog.jetbrains.com/dotnet/2019/05/29/awesome-plugins-rider-language-support/) (JetBrains)
+  * [Code Editing/Code Analysis](https://blog.jetbrains.com/dotnet/2019/05/31/awesome-plugins-rider-code-editinganalysis/) (JetBrains)
 
 ### Videos
 
