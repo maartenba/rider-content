@@ -71,7 +71,8 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * Awesome Plugins for Rider
   * [Language Support](https://blog.jetbrains.com/dotnet/2019/05/29/awesome-plugins-rider-language-support/) (JetBrains)
   * [Code Editing/Code Analysis](https://blog.jetbrains.com/dotnet/2019/05/31/awesome-plugins-rider-code-editinganalysis/) (JetBrains)
-
+  * [UI/UX plugins](https://blog.jetbrains.com/dotnet/2019/06/04/awesome-plugins-rider-uiux/) (JetBrains)
+  
 ### Videos
 
 * [Be More Productive with JetBrains Rider](https://www.youtube.com/watch?v=rPpaT6F_FnM) (community)
