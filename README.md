@@ -74,7 +74,8 @@ In this category, we explore IDE tips and tricks that will help us become more p
   * [UI/UX plugins](https://blog.jetbrains.com/dotnet/2019/06/04/awesome-plugins-rider-uiux/) (JetBrains)
 * [Readme.txt support, XDT transforms, native credential providers and more Rider 2019.2 NuGet updates](https://blog.jetbrains.com/dotnet/2019/07/15/readme-txt-support-xdt-transforms-native-credential-providers-rider-2019-2-nuget-updates/) (JetBrains)
 * [Fun and entertaining plugins for Rider](https://blog.jetbrains.com/dotnet/2019/07/19/fun-entertaining-plugins-rider/) (JetBrains)
-  
+* [Work effectively with JSON using Rider](https://blog.jetbrains.com/dotnet/2019/07/22/work-effectively-json-using-rider/) (JetBrains)
+
 ### Videos
 
 * [Be More Productive with JetBrains Rider](https://www.youtube.com/watch?v=rPpaT6F_FnM) (community)
