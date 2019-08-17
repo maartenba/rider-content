@@ -75,6 +75,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Fun and entertaining plugins for Rider](https://blog.jetbrains.com/dotnet/2019/07/19/fun-entertaining-plugins-rider/) (JetBrains)
 * [Work effectively with JSON using Rider](https://blog.jetbrains.com/dotnet/2019/07/22/work-effectively-json-using-rider/) (JetBrains)
 * [Find your perfect coding style using Rider](https://blog.jetbrains.com/dotnet/2019/07/30/find-perfect-coding-style-using-rider/) (JetBrains)
+* [Cloud Shell Web Preview, debug individual Azure Functions, explore ARM – Azure Toolkit for Rider 2019.2 updates](https://blog.jetbrains.com/dotnet/2019/08/15/cloud-shell-web-preview-debug-individual-azure-functions-explore-arm-azure-toolkit-rider-2019-2-updates/) (JetBrains)
 
 ### Videos
 
