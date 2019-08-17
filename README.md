@@ -49,11 +49,9 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Looking at NuGet improvements in Rider 2018.2](https://blog.jetbrains.com/dotnet/2018/09/03/looking-nuget-improvements-rider-2018-2/) (JetBrains)
 * [Live templates and file templates in Rider 2018.2](https://blog.jetbrains.com/dotnet/2018/09/06/live-templates-file-templates-rider-2018-2/) (JetBrains)
 * [Add missing packages, faster search and more NuGet improvements in Rider 2018.3 EAP](https://blog.jetbrains.com/dotnet/2018/10/10/add-missing-packages-faster-search-nuget-improvements-rider-2018-3-eap/) (JetBrains)
-* [Deploy web apps, explore resources and more – Introducing the Azure Toolkit for Rider](https://blog.jetbrains.com/dotnet/2018/10/16/deploy-web-apps-explore-resources-introducing-azure-toolkit-rider/) (JetBrains)
 * [Performance profiling .NET code in Rider with integrated dotTrace](https://blog.jetbrains.com/dotnet/2018/10/22/performance-profiling-net-code-rider-integrated-dottrace/) (JetBrains)
 * [Rider 2018.3 assembly explorer and cross-platform .NET decompiler](https://blog.jetbrains.com/dotnet/2018/10/24/rider-2018-3-assembly-explorer-cross-platform-net-decompiler/) (JetBrains)
 * [Renaming projects the easy way – new refactoring in Rider 2018.3](https://blog.jetbrains.com/dotnet/2018/11/21/renaming-projects-easy-way-new-refactoring-rider-2018-3/) (JetBrains)
-* [Work with databases and the Azure Cloud Shell – Azure Toolkit for Rider 2018.3 EAP](https://blog.jetbrains.com/dotnet/2018/12/03/work-databases-azure-cloud-shell-azure-toolkit-rider-2018-3-eap/) (JetBrains)
 * [Code Vision in Rider: Enriching the editor with contextual information and navigation](http://blog.jetbrains.com/dotnet/2018/12/10/code-vision-rider-enriching-editor-contextual-information-navigation/) (JetBrains)
 * [Unit testing receives major updates in ReSharper and Rider 2018.3 EAP](https://blog.jetbrains.com/dotnet/2018/12/12/unit-testing-receives-major-updates-resharper-rider-2018-3-eap/) (JetBrains)
 * [.editorconfig updates, more build options, better Roslyn support in Rider 2018.3 EAP](https://blog.jetbrains.com/dotnet/2018/12/13/editorconfig-updates-build-options-better-roslyn-support-rider-2018-3-eap/) (JetBrains)
@@ -65,7 +63,6 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Code Coverage on macOS and Linux in Rider 2019.1](https://blog.jetbrains.com/dotnet/2019/04/10/code-coverage-macos-linux-rider-2019-1/) (JetBrains)
 * [Unit Testing Improvements in Rider 2019.1](https://blog.jetbrains.com/dotnet/2019/04/08/unit-testing-improvements-rider-2019-1/) (JetBrains)
 * [Breadcrumbs, structural navigation, parameter info tooltips and more editor improvements in Rider 2019.1](http://blog.jetbrains.com/dotnet/2019/04/11/breadcrumbs-structural-navigation-parameter-info-tooltips-editor-improvements-rider-2019-1/) (JetBrains)
-* [Building Azure Functions, SQL database improvements and more - Azure Toolkit for Rider 2019.1](https://blog.jetbrains.com/dotnet/2019/05/09/building-azure-functions-sql-database-improvements-azure-toolkit-rider-2019-1/) (JetBrains)
 * [Containers? Images? An introduction to Docker in Rider](https://blog.jetbrains.com/dotnet/2019/05/21/containers-images-introduction-docker-rider/) (JetBrains)
 * Awesome Plugins for Rider
   * [Language Support](https://blog.jetbrains.com/dotnet/2019/05/29/awesome-plugins-rider-language-support/) (JetBrains)
@@ -75,7 +72,6 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Fun and entertaining plugins for Rider](https://blog.jetbrains.com/dotnet/2019/07/19/fun-entertaining-plugins-rider/) (JetBrains)
 * [Work effectively with JSON using Rider](https://blog.jetbrains.com/dotnet/2019/07/22/work-effectively-json-using-rider/) (JetBrains)
 * [Find your perfect coding style using Rider](https://blog.jetbrains.com/dotnet/2019/07/30/find-perfect-coding-style-using-rider/) (JetBrains)
-* [Cloud Shell Web Preview, debug individual Azure Functions, explore ARM – Azure Toolkit for Rider 2019.2 updates](https://blog.jetbrains.com/dotnet/2019/08/15/cloud-shell-web-preview-debug-individual-azure-functions-explore-arm-azure-toolkit-rider-2019-2-updates/) (JetBrains)
 
 ### Videos
 
@@ -196,6 +192,13 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [Testing and Profiling ASP.NET Core REST API's from Rider, part 1](https://blog.jetbrains.com/dotnet/2019/03/07/testing-and-profiling-asp-net-core-rest-apis-from-rider-part1/) (JetBrains)
 * [Testing and Profiling ASP.NET Core REST API's from Rider, part 2](https://blog.jetbrains.com/dotnet/2019/03/11/testing-profiling-asp-net-core-rest-apis-rider-part2/) (JetBrains)
 * [Running and debugging ASP.NET Core apps in IIS Express with Rider](https://blog.jetbrains.com/dotnet/2019/03/19/running-debugging-asp-net-core-apps-iis-express-rider/) (JetBrains)
+
+### Microsoft Azure
+
+* [Deploy web apps, explore resources and more – Introducing the Azure Toolkit for Rider](https://blog.jetbrains.com/dotnet/2018/10/16/deploy-web-apps-explore-resources-introducing-azure-toolkit-rider/) (JetBrains)
+* [Work with databases and the Azure Cloud Shell – Azure Toolkit for Rider 2018.3 EAP](https://blog.jetbrains.com/dotnet/2018/12/03/work-databases-azure-cloud-shell-azure-toolkit-rider-2018-3-eap/) (JetBrains)
+* [Building Azure Functions, SQL database improvements and more - Azure Toolkit for Rider 2019.1](https://blog.jetbrains.com/dotnet/2019/05/09/building-azure-functions-sql-database-improvements-azure-toolkit-rider-2019-1/) (JetBrains)
+* [Cloud Shell Web Preview, debug individual Azure Functions, explore ARM – Azure Toolkit for Rider 2019.2 updates](https://blog.jetbrains.com/dotnet/2019/08/15/cloud-shell-web-preview-debug-individual-azure-functions-explore-arm-azure-toolkit-rider-2019-2-updates/) (JetBrains)
 
 ### WPF / XAML
 
