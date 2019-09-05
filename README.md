@@ -72,6 +72,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Fun and entertaining plugins for Rider](https://blog.jetbrains.com/dotnet/2019/07/19/fun-entertaining-plugins-rider/) (JetBrains)
 * [Work effectively with JSON using Rider](https://blog.jetbrains.com/dotnet/2019/07/22/work-effectively-json-using-rider/) (JetBrains)
 * [Find your perfect coding style using Rider](https://blog.jetbrains.com/dotnet/2019/07/30/find-perfect-coding-style-using-rider/) (JetBrains)
+  * [Find your perfect C# style using Rider](https://blog.jetbrains.com/dotnet/2019/09/05/find-perfect-c-style-using-rider/) (JetBrains)
 * [Create a robust OO model in .NET with Rider](https://blog.jetbrains.com/dotnet/2019/08/28/create-robust-oo-model-net-rider/) (JetBrains)
 
 ### Videos
