@@ -183,6 +183,7 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [Better JavaScript and TypeScript support in Rider 2017.2](https://blog.jetbrains.com/dotnet/2017/09/25/better-javascript-typescript-support-rider-2017-2/) (JetBrains)
 * [Rider 2017.3 improved support for JavaScript, TypeScript and CSS](https://blog.jetbrains.com/dotnet/2018/02/21/general-web-development-updates-rider-2017-3/) (JetBrains)
 * [Working with NPM and Yarn in Rider](https://blog.jetbrains.com/dotnet/2018/06/22/working-npm-yarn-rider/) (JetBrains)
+* [Build HTML and JavaScript apps using Rider](https://blog.jetbrains.com/dotnet/2019/09/10/build-html-javascript-apps-using-rider/) (JetBrains)
 
 ### Web development
 
