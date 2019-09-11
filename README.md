@@ -251,6 +251,7 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [Troubleshooting JetBrains Rider and Visual Studio 2019 Xamarin Development](https://www.andrewhoefling.com/Blog/Post/troubleshooting-jetbrains-rider-and-visual-studio-2019-xamarin-development) (community)
 * [Xamarin Android Visual Designer and Layout Inspector in Rider 2019.1](http://blog.jetbrains.com/dotnet/2019/05/06/xamarin-android-visual-designer-layout-inspector-rider-2019-1/) (JetBrains)
 * [AndroidManifest.xml, Logcat and Android Profiling](https://blog.jetbrains.com/dotnet/2019/05/08/androidmanifest-xml-logcat-android-profiling-xamarin-android-rider-2019-1/) (JetBrains)
+* [Developing Xamarin applications in Rider](https://blog.jetbrains.com/dotnet/2019/09/11/developing-xamarin-applications-rider/) (JetBrains)
 
 ## Community
 
