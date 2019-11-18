@@ -77,6 +77,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
   * [Find your perfect web development style using Rider](https://blog.jetbrains.com/dotnet/2019/11/08/find-perfect-web-development-style-using-rider/) (JetBrains)
 * [Create a robust OO model in .NET with Rider](https://blog.jetbrains.com/dotnet/2019/08/28/create-robust-oo-model-net-rider/) (JetBrains)
 * [External tools in Rider: running an executable as an action](https://blog.jetbrains.com/dotnet/2019/10/29/external-tools-rider-running-executable-action/) (JetBrains)
+* [A new way to Commit! Introducing the Commit and Repository tool windows in Rider 2019.3 EAP](https://blog.jetbrains.com/dotnet/2019/11/18/new-way-commit-introducing-commit-repository-tool-windows-rider-2019-3-eap/) (JetBrains)
 
 ### Videos
 
