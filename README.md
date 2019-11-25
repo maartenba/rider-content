@@ -200,6 +200,7 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [Testing and Profiling ASP.NET Core REST API's from Rider, part 1](https://blog.jetbrains.com/dotnet/2019/03/07/testing-and-profiling-asp-net-core-rest-apis-from-rider-part1/) (JetBrains)
 * [Testing and Profiling ASP.NET Core REST API's from Rider, part 2](https://blog.jetbrains.com/dotnet/2019/03/11/testing-profiling-asp-net-core-rest-apis-rider-part2/) (JetBrains)
 * [Running and debugging ASP.NET Core apps in IIS Express with Rider](https://blog.jetbrains.com/dotnet/2019/03/19/running-debugging-asp-net-core-apps-iis-express-rider/) (JetBrains)
+* [A quick overview of ASP.NET Core with Rider](https://blog.jetbrains.com/dotnet/2019/11/25/quick-overview-asp-net-core-rider/) (JetBrains)
 
 ### Microsoft Azure
 
