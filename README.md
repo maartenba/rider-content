@@ -202,6 +202,10 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [Running and debugging ASP.NET Core apps in IIS Express with Rider](https://blog.jetbrains.com/dotnet/2019/03/19/running-debugging-asp-net-core-apps-iis-express-rider/) (JetBrains)
 * [A quick overview of ASP.NET Core with Rider](https://blog.jetbrains.com/dotnet/2019/11/25/quick-overview-asp-net-core-rider/) (JetBrains)
 
+### Amazon AWS
+
+* [Introducing the AWS Toolkit for Rider](https://blog.jetbrains.com/dotnet/2019/12/02/introducing-the-aws-toolkit-for-rider/) (JetBrains)
+
 ### Microsoft Azure
 
 * [Deploy web apps, explore resources and more – Introducing the Azure Toolkit for Rider](https://blog.jetbrains.com/dotnet/2018/10/16/deploy-web-apps-explore-resources-introducing-azure-toolkit-rider/) (JetBrains)
