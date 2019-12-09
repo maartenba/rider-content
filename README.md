@@ -205,6 +205,7 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 ### Amazon AWS
 
 * [Introducing the AWS Toolkit for Rider](https://blog.jetbrains.com/dotnet/2019/12/02/introducing-the-aws-toolkit-for-rider/) (JetBrains)
+* [Configuring the AWS Toolkit in JetBrains’ Rider](https://billthevestguy.com/2019/12/04/configuring-aws-toolkit-in-rider/) (community)
 
 ### Microsoft Azure
 
