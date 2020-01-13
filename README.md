@@ -112,6 +112,7 @@ In this category, we explore Rider's debugger. There are various tips & tricks a
 * [Edit & Continue, Just-in-time Debugging, and more debugger improvements in Rider 2019.1](https://blog.jetbrains.com/dotnet/2019/04/16/edit-continue-just-time-debugging-debugger-improvements-rider-2019-1/) (JetBrains)
 * [How to Easily Debug Sitecore DLLs with JetBrains Rider](https://www.sam-solutions.com/blog/how-to-easily-debug-sitecore-dlls-with-jetbrains-rider/) (community)
 * [Debugger additions for Rider 2019.2: Pin to Top, Floating Actions, and Redesigned Stack Frames](https://blog.jetbrains.com/dotnet/2019/08/13/debugger-additions-rider-2019-2-pin-top-floating-actions-redesigned-stack-frames/) (JetBrains)
+* [Docker Compose, edit & continue for C# 8 and more debugger updates in Rider 2019.3](https://blog.jetbrains.com/dotnet/2020/01/13/docker-compose-edit-continue-c-8-debugger-updates-rider-2019-3/) (JetBrains)
 
 ### Videos
 
