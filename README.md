@@ -79,6 +79,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [External tools in Rider: running an executable as an action](https://blog.jetbrains.com/dotnet/2019/10/29/external-tools-rider-running-executable-action/) (JetBrains)
 * [A new way to Commit! Introducing the Commit and Repository tool windows in Rider 2019.3 EAP](https://blog.jetbrains.com/dotnet/2019/11/18/new-way-commit-introducing-commit-repository-tool-windows-rider-2019-3-eap/) (JetBrains)
 * [Introducing T4 Text Template Support in Rider 2019.3](https://blog.jetbrains.com/dotnet/2019/12/17/introducing-t4-text-template-support/) (JetBrains)
+* [Project Model Updates in Rider 2019.3](https://blog.jetbrains.com/dotnet/2020/01/20/project-model-updates-tfm-filtered-solutions-build-configurations/) (JetBrains)
 
 ### Videos
 
