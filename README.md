@@ -83,6 +83,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [SourceLink, Consuming APIs, and NuGet Dependent Code in ReSharper and Rider 2019.3](https://blog.jetbrains.com/dotnet/2020/02/03/sourcelink-consuming-apis-nuget-dependent-code/) (JetBrains)
 * [Working With Databases In JetBrains Rider](https://blog.jetbrains.com/dotnet/2020/03/05/working-databases-jetbrains-rider/) (JetBrains)
 * [Test Runner Updates in Rider 2020.1 EAP](https://blog.jetbrains.com/dotnet/2020/03/12/test-runner-updates-rider-2020-1-eap/) (JetBrains)
+* [Publishing applications to IIS, Azure, AWS and more – using Rider!](https://blog.jetbrains.com/dotnet/2020/03/17/publishing-applications-iis-azure-aws-using-rider/) (JetBrains)
 
 ### Videos
 
