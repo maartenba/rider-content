@@ -88,6 +88,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Most useful keyboard shortcuts in Rider](https://lukaszlawicki.pl/most-useful-keyboard-shortcuts-in-rider/) (Community)
 * [Auto-Detect Memory Issues in your App with Dynamic Program Analysis - Rider 2020.1](https://blog.jetbrains.com/dotnet/2020/03/31/auto-detect-memory-issues-app-dynamic-program-analysis-rider-2020-1/) (JetBrains)
 * [Write Regular Expressions Easily with Rider](https://blog.jetbrains.com/dotnet/2020/04/08/write-regular-expressions-easily-rider/) (JetBrains)
+* [JetBrains Rider Command Line Tricks](https://khalidabuhakmeh.com/jetbrains-rider-commandline-tricks) (community)
 
 ### Videos
 
