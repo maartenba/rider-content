@@ -218,6 +218,7 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [Running and debugging ASP.NET Core apps in IIS Express with Rider](https://blog.jetbrains.com/dotnet/2019/03/19/running-debugging-asp-net-core-apps-iis-express-rider/) (JetBrains)
 * [A quick overview of ASP.NET Core with Rider](https://blog.jetbrains.com/dotnet/2019/11/25/quick-overview-asp-net-core-rider/) (JetBrains)
 * [Create Real-time Applications with ASP.NET Core SignalR – Using Rider!](https://blog.jetbrains.com/dotnet/2020/05/19/create-real-time-applications-asp-net-core-signalr-using-rider/) (JetBrains)
+* [Write high-quality TypeScript code](https://blog.jetbrains.com/dotnet/2020/05/28/write-high-quality-typescript-code/) (JetBrains)
 
 ### Amazon AWS
 
