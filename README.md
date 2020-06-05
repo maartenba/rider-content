@@ -125,6 +125,7 @@ In this category, we explore Rider's debugger. There are various tips & tricks a
 * [Docker Compose, edit & continue for C# 8 and more debugger updates in Rider 2019.3](https://blog.jetbrains.com/dotnet/2020/01/13/docker-compose-edit-continue-c-8-debugger-updates-rider-2019-3/) (JetBrains)
 * [Being More Productive With The JetBrains Rider Debugger (and return values)](https://khalidabuhakmeh.com/being-more-productive-with-the-jetbrains-rider-debugger) (community
 * [Smart Step Into Enabled by Default and More Debugger Updates in Rider 2020.1](https://blog.jetbrains.com/dotnet/2020/04/30/smart-step-enabled-default-debugger-updates-rider-2020-1/) (JetBrains)
+* [Remote debugging Windows containers with Rider](https://joost.meijles.com/remote_debug_windows_container_rider) (community)
 
 ### Videos
 
