@@ -89,6 +89,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Auto-Detect Memory Issues in your App with Dynamic Program Analysis - Rider 2020.1](https://blog.jetbrains.com/dotnet/2020/03/31/auto-detect-memory-issues-app-dynamic-program-analysis-rider-2020-1/) (JetBrains)
 * [Write Regular Expressions Easily with Rider](https://blog.jetbrains.com/dotnet/2020/04/08/write-regular-expressions-easily-rider/) (JetBrains)
 * [JetBrains Rider Command Line Tricks](https://khalidabuhakmeh.com/jetbrains-rider-commandline-tricks) (community)
+* [Speed up Creating Code with Live Templates in JetBrains Rider or ReSharper](https://www.josephguadagno.net/2020/06/14/speed-up-creating-code-with-live-templates-in-jetbrains-rider-or-resharper) (community)
 
 ### Videos
 
