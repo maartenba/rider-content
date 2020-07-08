@@ -286,6 +286,7 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [Xamarin Android Visual Designer and Layout Inspector in Rider 2019.1](http://blog.jetbrains.com/dotnet/2019/05/06/xamarin-android-visual-designer-layout-inspector-rider-2019-1/) (JetBrains)
 * [AndroidManifest.xml, Logcat and Android Profiling](https://blog.jetbrains.com/dotnet/2019/05/08/androidmanifest-xml-logcat-android-profiling-xamarin-android-rider-2019-1/) (JetBrains)
 * [Developing Xamarin applications in Rider](https://blog.jetbrains.com/dotnet/2019/09/11/developing-xamarin-applications-rider/) (JetBrains)
+* [Create a Beautiful Mobile App With JetBrains Rider and Syncfusion Components](https://blog.jetbrains.com/dotnet/2020/07/08/create-a-beautiful-mobile-app-with-jetbrains-rider-and-syncfusion-components/) (JetBrains)
 
 ## Community
 
