@@ -90,6 +90,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Write Regular Expressions Easily with Rider](https://blog.jetbrains.com/dotnet/2020/04/08/write-regular-expressions-easily-rider/) (JetBrains)
 * [JetBrains Rider Command Line Tricks](https://khalidabuhakmeh.com/jetbrains-rider-commandline-tricks) (community)
 * [Speed up Creating Code with Live Templates in JetBrains Rider or ReSharper](https://www.josephguadagno.net/2020/06/14/speed-up-creating-code-with-live-templates-in-jetbrains-rider-or-resharper) (community)
+* [Implicit References, Context Popup, Configuration and Deprecation Messages – NuGet Updates in Rider 2020.2 EAP](https://blog.jetbrains.com/dotnet/2020/07/13/nuget-implicit-references-context-popup-configuration-and-deprecation-messages/) (JetBrains)
 
 ### Videos
 
