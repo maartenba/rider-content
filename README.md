@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/maartenba/rider-content/master/logo.jpg">
+<img src="https://github.com/maartenba/rider-content/raw/main/logo.jpg">
 
 # Curated list of Rider content
 
