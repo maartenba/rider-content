@@ -1,4 +1,4 @@
-<img src="https://github.com/maartenba/rider-content/raw/main/logo.jpg">
+<img src="https://github.com/maartenba/rider-content/raw/main/logo.jpg" width="150" />
 
 # Curated list of Rider content
 
@@ -129,6 +129,7 @@ In this category, we explore Rider's debugger. There are various tips & tricks a
 * [Being More Productive With The JetBrains Rider Debugger (and return values)](https://khalidabuhakmeh.com/being-more-productive-with-the-jetbrains-rider-debugger) (community)
 * [Smart Step Into Enabled by Default and More Debugger Updates in Rider 2020.1](https://blog.jetbrains.com/dotnet/2020/04/30/smart-step-enabled-default-debugger-updates-rider-2020-1/) (JetBrains)
 * [Remote debugging Windows containers with Rider](https://joost.meijles.com/remote_debug_windows_container_rider) (community)
+* [Data Breakpoints and Pin-to-Frame – Debugger Updates in Rider 2020.2 EAP](https://blog.jetbrains.com/dotnet/2020/07/22/data-breakpoints-and-pin-to-frame-debugger-updates-in-rider-2020-2-eap/) (JetBrains)
 
 ### Videos
 
