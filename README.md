@@ -210,6 +210,8 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [Rider 2017.3 improved support for JavaScript, TypeScript and CSS](https://blog.jetbrains.com/dotnet/2018/02/21/general-web-development-updates-rider-2017-3/) (JetBrains)
 * [Working with NPM and Yarn in Rider](https://blog.jetbrains.com/dotnet/2018/06/22/working-npm-yarn-rider/) (JetBrains)
 * [Build HTML and JavaScript apps using Rider](https://blog.jetbrains.com/dotnet/2019/09/10/build-html-javascript-apps-using-rider/) (JetBrains)
+* [Write high-quality TypeScript code](https://blog.jetbrains.com/dotnet/2020/05/28/write-high-quality-typescript-code/) (JetBrains)
+* [Write Object-Oriented TypeScript Well](https://blog.jetbrains.com/dotnet/2020/07/28/write-object-oriented-typescript-well) (JetBrains)
 
 ### Web development
 
@@ -223,7 +225,6 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [Running and debugging ASP.NET Core apps in IIS Express with Rider](https://blog.jetbrains.com/dotnet/2019/03/19/running-debugging-asp-net-core-apps-iis-express-rider/) (JetBrains)
 * [A quick overview of ASP.NET Core with Rider](https://blog.jetbrains.com/dotnet/2019/11/25/quick-overview-asp-net-core-rider/) (JetBrains)
 * [Create Real-time Applications with ASP.NET Core SignalR – Using Rider!](https://blog.jetbrains.com/dotnet/2020/05/19/create-real-time-applications-asp-net-core-signalr-using-rider/) (JetBrains)
-* [Write high-quality TypeScript code](https://blog.jetbrains.com/dotnet/2020/05/28/write-high-quality-typescript-code/) (JetBrains)
 
 ### Amazon AWS
 
