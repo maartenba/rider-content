@@ -279,6 +279,8 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [Unity-specific code analysis in Rider 2018.2](https://blog.jetbrains.com/dotnet/2018/10/18/unity-specific-code-analysis-rider-2018-2/) (JetBrains)
 * [Unity Performance Best Practices with Rider, Part 1](https://blog.jetbrains.com/dotnet/2019/02/21/performance-indicators-unity-code-rider/) (JetBrains)
 * [Unity performance best practice with Rider, part 2](https://blog.jetbrains.com/dotnet/2019/02/28/performance-inspections-unity-code-rider/) (JetBrains)
+* [Debugging Unity Players over network and USB with Rider 2020.2](https://blog.jetbrains.com/dotnet/2020/08/11/debugging-unity-players-over-network-and-usb-with-rider-2020-2/) (JetBrains)
+* [Debugger Extensions for Unity in Rider 2020.2](https://blog.jetbrains.com/dotnet/2020/08/17/debugger-extensions-for-unity-in-rider-2020-2/) (JetBrains)
 
 #### Videos
 
