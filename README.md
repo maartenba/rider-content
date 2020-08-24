@@ -192,6 +192,7 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
   * [Async Streams – A Look at New Language Features in C# 8](https://blog.jetbrains.com/dotnet/2019/09/16/async-streams-look-new-language-features-c-8/) (JetBrains)
   * [Nullable Reference Types: Migrating a Codebase – A Look at New Language Features in C# 8](https://blog.jetbrains.com/dotnet/2020/04/20/nullable-reference-types-migration/) (JetBrains)
   * [Nullable Reference Types: Contexts and Attributes – A Look at New Language Features in C# 8](https://blog.jetbrains.com/dotnet/2020/05/26/nullable-contexts-nullable-attributes/) (JetBrains)
+* [Improved Analysis and Hints for Nullable Reference Types](https://blog.jetbrains.com/dotnet/2020/08/24/improved-analysis-and-hints-for-nullable-reference-types/) (JetBrains)
   
 ### F#
 
