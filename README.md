@@ -242,6 +242,7 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [Building Azure Functions, SQL database improvements and more - Azure Toolkit for Rider 2019.1](https://blog.jetbrains.com/dotnet/2019/05/09/building-azure-functions-sql-database-improvements-azure-toolkit-rider-2019-1/) (JetBrains)
 * [Cloud Shell Web Preview, debug individual Azure Functions, explore ARM – Azure Toolkit for Rider 2019.2 updates](https://blog.jetbrains.com/dotnet/2019/08/15/cloud-shell-web-preview-debug-individual-azure-functions-explore-arm-azure-toolkit-rider-2019-2-updates/) (JetBrains)
 * [Run Azurite in Docker with Rider and keep Azure Storage data local to a solution](https://blog.maartenballiauw.be/post/2020/06/08/run-azurite-in-docker-with-rider-and-keep-azure-storage-data-local-to-a-solution.html) (community)
+* [Azurite Support, Timer Trigger Code Completion, and More Azure Toolkit for Rider 2020.2 Updates](https://blog.jetbrains.com/dotnet/2020/08/27/azurite-support-timer-trigger-code-completion-and-more-azure-toolkit-for-rider-2020-2-updates/) (JetBrains)
 
 ### WPF / XAML
 
