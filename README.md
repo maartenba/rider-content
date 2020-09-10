@@ -215,6 +215,7 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [Build HTML and JavaScript apps using Rider](https://blog.jetbrains.com/dotnet/2019/09/10/build-html-javascript-apps-using-rider/) (JetBrains)
 * [Write high-quality TypeScript code](https://blog.jetbrains.com/dotnet/2020/05/28/write-high-quality-typescript-code/) (JetBrains)
 * [Write Object-Oriented TypeScript Well](https://blog.jetbrains.com/dotnet/2020/07/28/write-object-oriented-typescript-well) (JetBrains)
+* [Unit Testing in TypeScript Code](https://blog.jetbrains.com/dotnet/2020/09/10/unit-testing-in-typescript-code/) (JetBrains)
 
 ### Web development
 
