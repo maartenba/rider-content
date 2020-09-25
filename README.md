@@ -85,7 +85,6 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Working With Databases In JetBrains Rider](https://blog.jetbrains.com/dotnet/2020/03/05/working-databases-jetbrains-rider/) (JetBrains)
 * [Test Runner Updates in Rider 2020.1 EAP](https://blog.jetbrains.com/dotnet/2020/03/12/test-runner-updates-rider-2020-1-eap/) (JetBrains)
 * [Publishing applications to IIS, Azure, AWS and more – using Rider!](https://blog.jetbrains.com/dotnet/2020/03/17/publishing-applications-iis-azure-aws-using-rider/) (JetBrains)
-* [Hot Reload for Xamarin.Forms comes to Rider](https://blog.jetbrains.com/dotnet/2020/03/24/hot-reload-xamarin-forms-comes-rider/) (JetBrains)
 * [Most useful keyboard shortcuts in Rider](https://lukaszlawicki.pl/most-useful-keyboard-shortcuts-in-rider/) (community)
 * [Auto-Detect Memory Issues in your App with Dynamic Program Analysis - Rider 2020.1](https://blog.jetbrains.com/dotnet/2020/03/31/auto-detect-memory-issues-app-dynamic-program-analysis-rider-2020-1/) (JetBrains)
 * [Write Regular Expressions Easily with Rider](https://blog.jetbrains.com/dotnet/2020/04/08/write-regular-expressions-easily-rider/) (JetBrains)
@@ -298,6 +297,8 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [AndroidManifest.xml, Logcat and Android Profiling](https://blog.jetbrains.com/dotnet/2019/05/08/androidmanifest-xml-logcat-android-profiling-xamarin-android-rider-2019-1/) (JetBrains)
 * [Developing Xamarin applications in Rider](https://blog.jetbrains.com/dotnet/2019/09/11/developing-xamarin-applications-rider/) (JetBrains)
 * [Create a Beautiful Mobile App With JetBrains Rider and Syncfusion Components](https://blog.jetbrains.com/dotnet/2020/07/08/create-a-beautiful-mobile-app-with-jetbrains-rider-and-syncfusion-components/) (JetBrains)
+* [Hot Reload for Xamarin.Forms comes to Rider](https://blog.jetbrains.com/dotnet/2020/03/24/hot-reload-xamarin-forms-comes-rider/) (JetBrains)
+* [Building a Xamarin.Forms Moon Phase App](https://blog.jetbrains.com/dotnet/2020/09/25/build-a-xamarin-forms-moon-phase-app/) (JetBrains)
 
 ## Community
 
