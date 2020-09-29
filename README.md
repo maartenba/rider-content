@@ -163,7 +163,7 @@ In this category we look at navigating codebases, as well as things like automat
 * [A Look at what’s new in Rider 2018.3: Code Completion, TODO and More](https://blog.jetbrains.com/dotnet/2019/01/02/a-look-at-whats-new-in-rider-2018-3-3/) (JetBrains)
 * [Exploring exception stack traces with ReSharper and Rider](https://blog.jetbrains.com/dotnet/2019/02/26/exploring-exception-stack-traces-resharper-rider/) (JetBrains)
 
-## Language support
+## Language/framework support
 
 In this category, we'll explore language support. C#, VB.NET, F#, but also JavaScript, TypeScript, CSS, ... and platforms like Unity.
 
@@ -290,7 +290,7 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 
 * [Rider for Unity development](https://www.youtube.com/watch?v=RaY3Q5v5hjg) (JetBrains)
 
-## Xamarin
+### Xamarin
 
 * [Troubleshooting JetBrains Rider and Visual Studio 2019 Xamarin Development](https://www.andrewhoefling.com/Blog/Post/troubleshooting-jetbrains-rider-and-visual-studio-2019-xamarin-development) (community)
 * [Xamarin Android Visual Designer and Layout Inspector in Rider 2019.1](http://blog.jetbrains.com/dotnet/2019/05/06/xamarin-android-visual-designer-layout-inspector-rider-2019-1/) (JetBrains)
@@ -299,6 +299,10 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [Create a Beautiful Mobile App With JetBrains Rider and Syncfusion Components](https://blog.jetbrains.com/dotnet/2020/07/08/create-a-beautiful-mobile-app-with-jetbrains-rider-and-syncfusion-components/) (JetBrains)
 * [Hot Reload for Xamarin.Forms comes to Rider](https://blog.jetbrains.com/dotnet/2020/03/24/hot-reload-xamarin-forms-comes-rider/) (JetBrains)
 * [Building a Xamarin.Forms Moon Phase App](https://blog.jetbrains.com/dotnet/2020/09/25/build-a-xamarin-forms-moon-phase-app/) (JetBrains)
+
+### XML
+
+* [Create well-formed XML and schema efficiently](https://blog.jetbrains.com/dotnet/2020/09/29/create-well-formed-xml-and-schema-efficiently-rider/) (JetBrains)
 
 ## Community
 
