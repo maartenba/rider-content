@@ -92,6 +92,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Speed up Creating Code with Live Templates in JetBrains Rider or ReSharper](https://www.josephguadagno.net/2020/06/14/speed-up-creating-code-with-live-templates-in-jetbrains-rider-or-resharper) (community)
 * [Implicit References, Context Popup, Configuration and Deprecation Messages – NuGet Updates in Rider 2020.2 EAP](https://blog.jetbrains.com/dotnet/2020/07/13/nuget-implicit-references-context-popup-configuration-and-deprecation-messages/) (JetBrains)
 * [Say Hello To Localization Manager In Rider 2020.2](https://blog.jetbrains.com/dotnet/2020/08/20/say-hello-to-localization-manager-in-rider-2020-2/) (JetBrains)
+* [Create UML Diagrams using PlantUML](https://blog.jetbrains.com/dotnet/2020/10/06/create-uml-diagrams-using-plantuml/) (JetBrains)
 
 ### Videos
 
