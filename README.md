@@ -194,6 +194,8 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
   * [Nullable Reference Types: Contexts and Attributes – A Look at New Language Features in C# 8](https://blog.jetbrains.com/dotnet/2020/05/26/nullable-contexts-nullable-attributes/) (JetBrains)
 * [Improved Analysis and Hints for Nullable Reference Types](https://blog.jetbrains.com/dotnet/2020/08/24/improved-analysis-and-hints-for-nullable-reference-types/) (JetBrains)
 * [Dataflow Analysis of Integral Values](https://blog.jetbrains.com/dotnet/2020/09/07/dataflow-analysis-of-integral-values/) (JetBrains)
+* C# 9 in Rider and ReSharper
+  * [Top-level Statements](https://blog.jetbrains.com/dotnet/2020/10/08/top-level-statements-in-resharper-and-rider/) (JetBrains)
 
 ### F#
 
