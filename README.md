@@ -131,6 +131,7 @@ In this category, we explore Rider's debugger. There are various tips & tricks a
 * [Smart Step Into Enabled by Default and More Debugger Updates in Rider 2020.1](https://blog.jetbrains.com/dotnet/2020/04/30/smart-step-enabled-default-debugger-updates-rider-2020-1/) (JetBrains)
 * [Remote debugging Windows containers with Rider](https://joost.meijles.com/remote_debug_windows_container_rider) (community)
 * [Data Breakpoints and Pin-to-Frame – Debugger Updates in Rider 2020.2 EAP](https://blog.jetbrains.com/dotnet/2020/07/22/data-breakpoints-and-pin-to-frame-debugger-updates-in-rider-2020-2-eap/) (JetBrains)
+* [Immediate Window – Interact with your Code while Debugging in Rider](https://blog.jetbrains.com/dotnet/2020/10/15/immediate-window-interact-with-your-code-while-debugging-in-rider/) (JetBrains)
 
 ### Videos
 
