@@ -93,6 +93,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Implicit References, Context Popup, Configuration and Deprecation Messages – NuGet Updates in Rider 2020.2 EAP](https://blog.jetbrains.com/dotnet/2020/07/13/nuget-implicit-references-context-popup-configuration-and-deprecation-messages/) (JetBrains)
 * [Say Hello To Localization Manager In Rider 2020.2](https://blog.jetbrains.com/dotnet/2020/08/20/say-hello-to-localization-manager-in-rider-2020-2/) (JetBrains)
 * [Create UML Diagrams using PlantUML](https://blog.jetbrains.com/dotnet/2020/10/06/create-uml-diagrams-using-plantuml/) (JetBrains)
+* [Project Dependency Diagrams come to Rider 2020.3](https://blog.jetbrains.com/dotnet/2020/10/27/project-dependency-diagrams-come-to-rider-2020-3/) (JetBrains)
 
 ### Videos
 
