@@ -253,6 +253,7 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 
 ### Blazor
 * [Building A Blazor Farm Animal Soundboard](https://blog.jetbrains.com/dotnet/2020/10/22/building-a-blazor-farm-animal-soundboard/) (JetBrains)
+* [Run Blazor Apps Within Electron Shell](https://blog.jetbrains.com/dotnet/2020/11/05/run-blazor-apps-within-electron-shell/) (JetBrains)
 
 ### WPF / XAML
 
