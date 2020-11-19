@@ -166,6 +166,7 @@ In this category we look at navigating codebases, as well as things like automat
 * [Inline parameter name hints for C# and VB.NET in ReSharper and Rider](https://blog.jetbrains.com/dotnet/2018/11/27/inline-parameter-name-hints-c-vb-net-resharper-rider/) (JetBrains)
 * [A Look at what’s new in Rider 2018.3: Code Completion, TODO and More](https://blog.jetbrains.com/dotnet/2019/01/02/a-look-at-whats-new-in-rider-2018-3-3/) (JetBrains)
 * [Exploring exception stack traces with ReSharper and Rider](https://blog.jetbrains.com/dotnet/2019/02/26/exploring-exception-stack-traces-resharper-rider/) (JetBrains)
+* [Auto-Detect Code Format Rules With Rider 2020.3](https://blog.jetbrains.com/dotnet/2020/11/19/auto-detect-code-format-rules-with-rider-2020-3/) (JetBrains)
 
 ## Language/framework support
 
