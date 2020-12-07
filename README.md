@@ -200,6 +200,7 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [Dataflow Analysis of Integral Values](https://blog.jetbrains.com/dotnet/2020/09/07/dataflow-analysis-of-integral-values/) (JetBrains)
 * C# 9 in Rider and ReSharper
   * [Top-level Statements](https://blog.jetbrains.com/dotnet/2020/10/08/top-level-statements-in-resharper-and-rider/) (JetBrains)
+  * [Use C# 9 records and init-only properties](https://blog.jetbrains.com/dotnet/2020/12/07/use-c-9-records-and-init-only-properties-in-resharper-and-rider-2020-3/) (JetBrains)
 
 ### F#
 
