@@ -95,6 +95,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Create UML Diagrams using PlantUML](https://blog.jetbrains.com/dotnet/2020/10/06/create-uml-diagrams-using-plantuml/) (JetBrains)
 * [Project Dependency Diagrams come to Rider 2020.3](https://blog.jetbrains.com/dotnet/2020/10/27/project-dependency-diagrams-come-to-rider-2020-3/) (JetBrains)
 * [Working With Uno Platform And Rider](https://blog.jetbrains.com/dotnet/2020/11/16/working-with-uno-platform-and-rider/) (JetBrains)
+* [dotCover 2020.3 Improvements And Updates](https://blog.jetbrains.com/dotnet/2020/12/21/dotcover-2020-3-improvements-and-updates/) (JetBrains)
 
 ### Videos
 
