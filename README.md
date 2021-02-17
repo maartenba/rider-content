@@ -262,6 +262,7 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 ### WPF / XAML
 
 * [XAML preview tool window for WPF in Rider](https://blog.jetbrains.com/dotnet/2018/03/29/xaml-preview-tool-window-wpf-rider/) (JetBrains)
+* [XAML Preview Tool Improvements in Rider 2021.1 EAP](https://blog.jetbrains.com/dotnet/2021/02/17/xaml-preview-tool-improvements-in-rider-2021-1-eap/) (JetBrains)
 
 ### Windows Forms
 
