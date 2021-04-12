@@ -272,6 +272,10 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [Developing Windows Forms Applications in Rider 2019.1](https://blog.jetbrains.com/dotnet/2019/04/26/developing-windows-forms-applications-rider-2019-1/) (JetBrains)
 * [Using third-party Windows Forms controls with Rider](https://blog.jetbrains.com/dotnet/2019/08/05/using-third-party-windows-forms-controls-rider/) (JetBrains)
 
+### Avalonia
+
+* [ReSharper & Rider Improvements For Avalonia](https://blog.jetbrains.com/dotnet/2021/04/12/improvements-for-resharper-rider-avalonia/) (JetBrains)
+
 ### Database development
 
 * Rider database management series
