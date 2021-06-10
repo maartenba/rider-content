@@ -97,6 +97,8 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Working With Uno Platform And Rider](https://blog.jetbrains.com/dotnet/2020/11/16/working-with-uno-platform-and-rider/) (JetBrains)
 * [dotCover 2020.3 Improvements And Updates](https://blog.jetbrains.com/dotnet/2020/12/21/dotcover-2020-3-improvements-and-updates/) (JetBrains)
 * [Generate Dockerfile for .NET Applications with Rider](https://blog.jetbrains.com/dotnet/2021/03/15/generate-dockerfile-for-net-applications-with-rider/) (JetBrains)
+* [Must-have JetBrains Rider Plugins For ASP.NET Core Developers](https://blog.jetbrains.com/dotnet/2021/06/08/must-have-jetbrains-rider-plugins-for-asp-net-core-developers/) (JetBrains)
+* [Import settings from Visual Studio and VS Code to Rider](https://blog.jetbrains.com/dotnet/2021/06/10/import-settings-from-visual-studio-and-vs-code-to-rider/) (JetBrains)
 
 ### Videos
 
