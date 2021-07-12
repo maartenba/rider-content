@@ -243,6 +243,7 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [Scaffolding for ASP.NET Core projects comes to Rider 2021.1](https://blog.jetbrains.com/dotnet/2021/03/18/scaffolding-for-asp-net-core-projects-comes-to-rider-2021-1/) (JetBrains)
 * [Work with ASP.NET Core route templates in ReSharper and Rider](https://blog.jetbrains.com/dotnet/2021/03/24/work-with-asp-net-core-route-templates-in-resharper-and-rider/) (JetBrains)
 * [Testing Web APIs or Services with JetBrains Rider](https://www.josephguadagno.net/2021/07/05/testing-web-apis-or-services-with-jetbrains-rider) (Community)
+* [A Better Way To Discover APIs With The New Endpoints Window](https://blog.jetbrains.com/dotnet/2021/07/12/a-better-way-to-discover-apis-with-the-new-endpoints-window/) (JetBrains)
 
 ### Amazon AWS
 
