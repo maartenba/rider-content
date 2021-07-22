@@ -99,6 +99,8 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Generate Dockerfile for .NET Applications with Rider](https://blog.jetbrains.com/dotnet/2021/03/15/generate-dockerfile-for-net-applications-with-rider/) (JetBrains)
 * [Must-have JetBrains Rider Plugins For ASP.NET Core Developers](https://blog.jetbrains.com/dotnet/2021/06/08/must-have-jetbrains-rider-plugins-for-asp-net-core-developers/) (JetBrains)
 * [Import settings from Visual Studio and VS Code to Rider](https://blog.jetbrains.com/dotnet/2021/06/10/import-settings-from-visual-studio-and-vs-code-to-rider/) (JetBrains)
+* [GraphQL language injection in Rider](https://chillicream.com/blog/2021/07/20/rider-language-injection/) (Community)
+* [Getting Started with ASP.NET Core and gRPC](https://blog.jetbrains.com/dotnet/2021/07/19/getting-started-with-asp-net-core-and-grpc/) (JetBrains)
 
 ### Videos
 
