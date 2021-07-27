@@ -265,8 +265,10 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [Build Serverless Apps with Azure Functions](https://blog.jetbrains.com/dotnet/2020/10/29/build-serverless-apps-with-azure-functions/) (JetBrains)
 
 ### Blazor
+
 * [Building A Blazor Farm Animal Soundboard](https://blog.jetbrains.com/dotnet/2020/10/22/building-a-blazor-farm-animal-soundboard/) (JetBrains)
 * [Run Blazor Apps Within Electron Shell](https://blog.jetbrains.com/dotnet/2020/11/05/run-blazor-apps-within-electron-shell/) (JetBrains)
+* [Blazor Debugging Improvements in Rider 2021.2](https://blog.jetbrains.com/dotnet/2021/07/27/blazor-debugging-improvements-in-rider-2021-2/) (JetBrains)
 
 ### WPF / XAML
 
