@@ -101,6 +101,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Import settings from Visual Studio and VS Code to Rider](https://blog.jetbrains.com/dotnet/2021/06/10/import-settings-from-visual-studio-and-vs-code-to-rider/) (JetBrains)
 * [GraphQL language injection in Rider](https://chillicream.com/blog/2021/07/20/rider-language-injection/) (Community)
 * [Getting Started with ASP.NET Core and gRPC](https://blog.jetbrains.com/dotnet/2021/07/19/getting-started-with-asp-net-core-and-grpc/) (JetBrains)
+* [Copy Code Reference in ReSharper and Rider 2021.3 EAP](https://blog.jetbrains.com/dotnet/2021/10/11/copy-code-reference-in-resharper-and-rider-2021-3-eap/) (JetBrains)
 
 ### Videos
 
