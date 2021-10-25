@@ -142,6 +142,7 @@ In this category, we explore Rider's debugger. There are various tips & tricks a
 * [Data Breakpoints and Pin-to-Frame – Debugger Updates in Rider 2020.2 EAP](https://blog.jetbrains.com/dotnet/2020/07/22/data-breakpoints-and-pin-to-frame-debugger-updates-in-rider-2020-2-eap/) (JetBrains)
 * [Immediate Window – Interact with your Code while Debugging in Rider](https://blog.jetbrains.com/dotnet/2020/10/15/immediate-window-interact-with-your-code-while-debugging-in-rider/) (JetBrains)
 * [Updated Debugging Experience, UWP Apps, and Debug Windows Docker containers in Rider 2021.3](https://blog.jetbrains.com/dotnet/2021/10/20/debugging-experience-debug-uwp-apps-and-debug-windows-docker-containers-in-rider-2021-3/) (JetBrains)
+* [Hot Reload for .NET 6 in Rider 2021.3](https://blog.jetbrains.com/dotnet/2021/10/25/hot-reload-for-net-6-in-rider-2021-3/) (JetBrains)
 
 ### Videos
 
