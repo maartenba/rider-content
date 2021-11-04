@@ -210,6 +210,9 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * C# 9 in Rider and ReSharper
   * [Top-level Statements](https://blog.jetbrains.com/dotnet/2020/10/08/top-level-statements-in-resharper-and-rider/) (JetBrains)
   * [Use C# 9 records and init-only properties](https://blog.jetbrains.com/dotnet/2020/12/07/use-c-9-records-and-init-only-properties-in-resharper-and-rider-2020-3/) (JetBrains)
+* C# 10 in Rider and ReSharper
+  * [File-Scoped Namespaces](https://blog.jetbrains.com/dotnet/2021/10/28/file-scoped-namespaces-in-csharp-10/) (JetBrains)
+  * [Caller Argument Expressions](https://blog.jetbrains.com/dotnet/2021/11/04/caller-argument-expressions-in-csharp-10/) (JetBrains)
 
 ### F#
 
