@@ -360,6 +360,7 @@ This category contains various blog posts and articles written by the community.
 * [A look a Rider for Visual Studio users](https://stackify.com/visual-studio-rider/) (community)
 * [First impressions of JetBrains Rider](https://jamesmckay.net/2018/08/first-impressions-of-jetbrains-rider/) (community)
 * [Writing Azure Functions with Rider](https://kenbonny.net/2019/05/06/writing-azure-functions-with-rider/) (community)
+* [Surround template for string interpolation in JetBrains Rider](https://blog.ciechowski.net/surround-template-for-string-interpolation-in-jetbrains-rider) (community)
 
 ## A little bit of everything
 
