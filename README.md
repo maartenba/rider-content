@@ -214,6 +214,7 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * C# 10 in Rider and ReSharper
   * [File-Scoped Namespaces](https://blog.jetbrains.com/dotnet/2021/10/28/file-scoped-namespaces-in-csharp-10/) (JetBrains)
   * [Caller Argument Expressions](https://blog.jetbrains.com/dotnet/2021/11/04/caller-argument-expressions-in-csharp-10/) (JetBrains)
+  * [Global Usings](https://blog.jetbrains.com/dotnet/2021/11/18/global-usings-in-csharp-10/) (JetBrains)
 
 ### F#
 
