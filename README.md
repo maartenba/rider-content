@@ -103,6 +103,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Getting Started with ASP.NET Core and gRPC](https://blog.jetbrains.com/dotnet/2021/07/19/getting-started-with-asp-net-core-and-grpc/) (JetBrains)
 * [Copy Code Reference in ReSharper and Rider 2021.3 EAP](https://blog.jetbrains.com/dotnet/2021/10/11/copy-code-reference-in-resharper-and-rider-2021-3-eap/) (JetBrains)
 * [Rider 2021.3 Brand New Main Toolbar](https://blog.jetbrains.com/dotnet/2021/11/16/rider-2021-3-brand-new-main-toolbar/) (JetBrains)
+* [Meet Rider 2021.3's new Problems View](https://blog.jetbrains.com/dotnet/2021/11/24/meet-rider-2021-3-new-problems-view/) (JetBrains)
 
 ### Videos
 
