@@ -105,6 +105,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Rider 2021.3 Brand New Main Toolbar](https://blog.jetbrains.com/dotnet/2021/11/16/rider-2021-3-brand-new-main-toolbar/) (JetBrains)
 * [Meet Rider 2021.3's new Problems View](https://blog.jetbrains.com/dotnet/2021/11/24/meet-rider-2021-3-new-problems-view/) (JetBrains)
 * [How Rider Hot Reload Works Under the Hood](https://blog.jetbrains.com/dotnet/2021/12/02/how-rider-hot-reload-works-under-the-hood/) (JetBrains)
+* [Editing Markdown with Rider](https://blog.jetbrains.com/dotnet/2022/01/18/editing-markdown-with-rider/) (JetBrains)
 
 ### Videos
 
