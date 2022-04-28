@@ -107,6 +107,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [How Rider Hot Reload Works Under the Hood](https://blog.jetbrains.com/dotnet/2021/12/02/how-rider-hot-reload-works-under-the-hood/) (JetBrains)
 * [Editing Markdown with Rider](https://blog.jetbrains.com/dotnet/2022/01/18/editing-markdown-with-rider/) (JetBrains)
 * [GitHub Essentials with Rider](https://blog.jetbrains.com/dotnet/2022/03/28/github-essentials-with-rider/) (JetBrains)
+* [Rider Plugin Recommendations](https://watzek.dev/posts/2022/04/26/rider-plugin-recommendations/) (Community)
 
 ### Videos
 
