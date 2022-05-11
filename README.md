@@ -260,6 +260,7 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [Work with ASP.NET Core route templates in ReSharper and Rider](https://blog.jetbrains.com/dotnet/2021/03/24/work-with-asp-net-core-route-templates-in-resharper-and-rider/) (JetBrains)
 * [Testing Web APIs or Services with JetBrains Rider](https://www.josephguadagno.net/2021/07/05/testing-web-apis-or-services-with-jetbrains-rider) (Community)
 * [A Better Way To Discover APIs With The New Endpoints Window](https://blog.jetbrains.com/dotnet/2021/07/12/a-better-way-to-discover-apis-with-the-new-endpoints-window/) (JetBrains)
+* [Testing ASP.NET Core gRPC services in JetBrains Rider](https://andrewlock.net/testing-aspnetcore-grpc-services-in-jetbrains-rider/) (Community)
 
 ### Amazon AWS
 
