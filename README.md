@@ -109,6 +109,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [GitHub Essentials with Rider](https://blog.jetbrains.com/dotnet/2022/03/28/github-essentials-with-rider/) (JetBrains)
 * [Rider Plugin Recommendations](https://watzek.dev/posts/2022/04/26/rider-plugin-recommendations/) (Community)
 * [Structure and Organize .NET Projects with Rider](https://blog.jetbrains.com/dotnet/2022/05/11/structure-and-organize-net-projects-with-rider/) (JetBrains)
+* [.NET Productivity With JetBrains Rider & GitHub Copilot](https://www.jamescroft.co.uk/net-productivity-with-jetbrains-rider-github-copilot/) (Community)
 
 ### Videos
 
