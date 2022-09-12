@@ -111,6 +111,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Structure and Organize .NET Projects with Rider](https://blog.jetbrains.com/dotnet/2022/05/11/structure-and-organize-net-projects-with-rider/) (JetBrains)
 * [.NET Productivity With JetBrains Rider & GitHub Copilot](https://www.jamescroft.co.uk/net-productivity-with-jetbrains-rider-github-copilot/) (Community)
 * [Ways to navigate and explore codebases](https://blog.jetbrains.com/dotnet/2022/07/25/ways-to-navigate-and-explore-codebases/) (JetBrains)
+* [JetBrains Rider .NET Watch Run Configuration Plugin](https://blog.jetbrains.com/dotnet/2022/09/12/jetbrains-rider-net-watch-run-configuration-plugin/) (JetBrains)
 
 ### Videos
 
