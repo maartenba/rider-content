@@ -113,6 +113,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Ways to navigate and explore codebases](https://blog.jetbrains.com/dotnet/2022/07/25/ways-to-navigate-and-explore-codebases/) (JetBrains)
 * [JetBrains Rider .NET Watch Run Configuration Plugin](https://blog.jetbrains.com/dotnet/2022/09/12/jetbrains-rider-net-watch-run-configuration-plugin/) (JetBrains)
 * [NuGet Central Package Management Comes To JetBrains Rider](https://blog.jetbrains.com/dotnet/2022/11/07/nuget-central-package-management-comes-to-jetbrains-rider/) (JetBrains)
+* [Language Injection Improvements in Rider 2022.3](https://blog.jetbrains.com/dotnet/2023/01/12/language-injection-improvements-in-rider-2022-3/) (JetBrains)
 
 ### Videos
 
