@@ -228,6 +228,8 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
   * [Global Usings](https://blog.jetbrains.com/dotnet/2021/11/18/global-usings-in-csharp-10/) (JetBrains)
   * [Improvements and Optimizations for Interpolated Strings](https://blog.jetbrains.com/dotnet/2022/02/07/improvements-and-optimizations-for-interpolated-strings-a-look-at-new-language-features-in-csharp-10/) (JetBrains)
 * [Refactor code to use new C# language features](https://blog.jetbrains.com/dotnet/2022/08/30/refactor-code-to-use-new-c-language-features/) (JetBrains) 
+* C# 11 in Rider and ReSharper
+  * [List and Span Pattern Matching](https://blog.jetbrains.com/dotnet/2023/02/20/list-and-span-pattern-matching-using-csharp-11-in-rider-and-resharper/) (JetBrains)  
 
 ### F#
 
