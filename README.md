@@ -49,14 +49,12 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Looking at the unit testing improvements in Rider 2018.2](https://blog.jetbrains.com/dotnet/2018/08/28/looking-unit-testing-improvements-rider-2018-2/) (JetBrains)
 * [Looking at NuGet improvements in Rider 2018.2](https://blog.jetbrains.com/dotnet/2018/09/03/looking-nuget-improvements-rider-2018-2/) (JetBrains)
 * [Live templates and file templates in Rider 2018.2](https://blog.jetbrains.com/dotnet/2018/09/06/live-templates-file-templates-rider-2018-2/) (JetBrains)
-* [Add missing packages, faster search and more NuGet improvements in Rider 2018.3 EAP](https://blog.jetbrains.com/dotnet/2018/10/10/add-missing-packages-faster-search-nuget-improvements-rider-2018-3-eap/) (JetBrains)
-* [Performance profiling .NET code in Rider with integrated dotTrace](https://blog.jetbrains.com/dotnet/2018/10/22/performance-profiling-net-code-rider-integrated-dottrace/) (JetBrains)
+* [Add missing packages, faster search and more NuGet improvements in Rider 2018.3 EAP](https://blog.jetbrains.com/dotnet/2018/10/10/add-missing-packages-faster-search-nuget-improvements-rider-2018-3-eap/) (JetBrains)\
 * [Rider 2018.3 assembly explorer and cross-platform .NET decompiler](https://blog.jetbrains.com/dotnet/2018/10/24/rider-2018-3-assembly-explorer-cross-platform-net-decompiler/) (JetBrains)
 * [Renaming projects the easy way – new refactoring in Rider 2018.3](https://blog.jetbrains.com/dotnet/2018/11/21/renaming-projects-easy-way-new-refactoring-rider-2018-3/) (JetBrains)
 * [Code Vision in Rider: Enriching the editor with contextual information and navigation](http://blog.jetbrains.com/dotnet/2018/12/10/code-vision-rider-enriching-editor-contextual-information-navigation/) (JetBrains)
 * [Unit testing receives major updates in ReSharper and Rider 2018.3 EAP](https://blog.jetbrains.com/dotnet/2018/12/12/unit-testing-receives-major-updates-resharper-rider-2018-3-eap/) (JetBrains)
 * [.editorconfig updates, more build options, better Roslyn support in Rider 2018.3 EAP](https://blog.jetbrains.com/dotnet/2018/12/13/editorconfig-updates-build-options-better-roslyn-support-rider-2018-3-eap/) (JetBrains)
-* [Performance Profiling in Rider 2018.3. What’s New?](https://blog.jetbrains.com/dotnet/2019/01/17/performance-profiling-rider-2018-3-whats-new/) (JetBrains)
 * [Keeping Track of Issues and Tasks in Rider](https://blog.jetbrains.com/dotnet/2019/02/12/keeping-track-issues-tasks-rider/) (JetBrains)
 * [Writing plugins for ReSharper and Rider](https://blog.jetbrains.com/dotnet/2019/02/14/writing-plugins-resharper-rider/) (JetBrains)
 * [Connecting to a Microsoft SQL Server Linux Docker Container from Rider](https://blog.jetbrains.com/dotnet/2019/03/05/connecting-microsoft-sql-server-linux-docker-container-rider/) (JetBrains)
@@ -189,6 +187,14 @@ In this category we look at navigating codebases, as well as things like automat
 * [Exploring exception stack traces with ReSharper and Rider](https://blog.jetbrains.com/dotnet/2019/02/26/exploring-exception-stack-traces-resharper-rider/) (JetBrains)
 * [Auto-Detect Code Format Rules With Rider 2020.3](https://blog.jetbrains.com/dotnet/2020/11/19/auto-detect-code-format-rules-with-rider-2020-3/) (JetBrains)
 
+## Performance and profiling
+
+In this category, we'll explore everything related to performance and memory profiling.
+
+* [Performance profiling .NET code in Rider with integrated dotTrace](https://blog.jetbrains.com/dotnet/2018/10/22/performance-profiling-net-code-rider-integrated-dottrace/) (JetBrains)
+* [Performance Profiling in Rider 2018.3. What’s New?](https://blog.jetbrains.com/dotnet/2019/01/17/performance-profiling-rider-2018-3-whats-new/) (JetBrains)
+* [Optimizing Entity Framework Core Database Queries With Dynamic Program Analysis](https://blog.jetbrains.com/dotnet/2023/03/02/optimizing-entity-framework-core-database-queries-with-dynamic-program-analysis/) (JetBrains)
+
 ## Language/framework support
 
 In this category, we'll explore language support. C#, VB.NET, F#, but also JavaScript, TypeScript, CSS, ... and platforms like Unity.
@@ -229,7 +235,8 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
   * [Improvements and Optimizations for Interpolated Strings](https://blog.jetbrains.com/dotnet/2022/02/07/improvements-and-optimizations-for-interpolated-strings-a-look-at-new-language-features-in-csharp-10/) (JetBrains)
 * [Refactor code to use new C# language features](https://blog.jetbrains.com/dotnet/2022/08/30/refactor-code-to-use-new-c-language-features/) (JetBrains) 
 * C# 11 in Rider and ReSharper
-  * [List and Span Pattern Matching](https://blog.jetbrains.com/dotnet/2023/02/20/list-and-span-pattern-matching-using-csharp-11-in-rider-and-resharper/) (JetBrains)  
+  * [List and Span Pattern Matching](https://blog.jetbrains.com/dotnet/2023/02/20/list-and-span-pattern-matching-using-csharp-11-in-rider-and-resharper/) (JetBrains)
+  * [Required Keyword, Checked Operators, nameof Operator Scope](https://blog.jetbrains.com/dotnet/2023/03/06/required-keyword-checked-operators-nameof-operator-scope-using-csharp-11-in-rider-and-resharper/) (JetBrains)
 
 ### F#
 
