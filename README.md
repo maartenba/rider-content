@@ -113,6 +113,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [NuGet Central Package Management Comes To JetBrains Rider](https://blog.jetbrains.com/dotnet/2022/11/07/nuget-central-package-management-comes-to-jetbrains-rider/) (JetBrains)
 * [Language Injection Improvements in Rider 2022.3](https://blog.jetbrains.com/dotnet/2023/01/12/language-injection-improvements-in-rider-2022-3/) (JetBrains)
 * [Working with Git in JetBrains Rider](https://andrewlock.net/working-with-git-in-jetbrains-rider/) (community)
+* [Connecting to a Running Docker Container Shell](https://blog.jetbrains.com/dotnet/2023/03/27/connecting-to-a-running-docker-container-shell/) (JetBrains)
 
 ### Videos
 
