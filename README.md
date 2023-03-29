@@ -238,7 +238,9 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [Refactor code to use new C# language features](https://blog.jetbrains.com/dotnet/2022/08/30/refactor-code-to-use-new-c-language-features/) (JetBrains) 
 * C# 11 in Rider and ReSharper
   * [List and Span Pattern Matching](https://blog.jetbrains.com/dotnet/2023/02/20/list-and-span-pattern-matching-using-csharp-11-in-rider-and-resharper/) (JetBrains)
+  * [Raw Strings, UTF-8 Strings, and Multiline Interpolations](https://blog.jetbrains.com/dotnet/2023/02/27/raw-strings-utf-8-strings-multiline-interpolations-using-csharp-11-in-rider-and-resharper/) (JetBrains)
   * [Required Keyword, Checked Operators, nameof Operator Scope](https://blog.jetbrains.com/dotnet/2023/03/06/required-keyword-checked-operators-nameof-operator-scope-using-csharp-11-in-rider-and-resharper/) (JetBrains)
+  * [Static Interface Members, Generic Attributes, Auto-Default Structs](https://blog.jetbrains.com/dotnet/2023/03/14/static-interface-members-generic-attributes-auto-default-structs-using-csharp-11-in-rider-and-resharper/) (JetBrains)
 
 ### F#
 
