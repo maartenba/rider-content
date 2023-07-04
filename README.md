@@ -116,6 +116,8 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Connecting to a Running Docker Container Shell](https://blog.jetbrains.com/dotnet/2023/03/27/connecting-to-a-running-docker-container-shell/) (JetBrains)
 * [HTML, XML, JSON, and JWT Visualizers in Rider 2023.1](https://blog.jetbrains.com/dotnet/2023/04/27/html-xml-json-and-jwt-visualizers-in-rider-2023-1/) (JetBrains)
 * [Level Up with Live Templates in JetBrains Rider](https://blog.jetbrains.com/dotnet/2023/05/30/level-up-with-live-templates-in-jetbrains-rider/) (JetBrains)
+* [How Docker Fast Mode Works in Rider](https://blog.jetbrains.com/dotnet/2023/06/07/how-docker-fast-mode-works-in-rider/) (JetBrains)
+* [HTTP Client Tools Everywhere!](https://blog.jetbrains.com/dotnet/2023/07/04/http-client-tools-everywhere/) (JetBrains)
 
 ### Videos
 
