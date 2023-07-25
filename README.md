@@ -119,6 +119,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [How Docker Fast Mode Works in Rider](https://blog.jetbrains.com/dotnet/2023/06/07/how-docker-fast-mode-works-in-rider/) (JetBrains)
 * [HTTP Client Tools Everywhere!](https://blog.jetbrains.com/dotnet/2023/07/04/http-client-tools-everywhere/) (JetBrains)
 * [Debug Source Generators in JetBrains Rider](https://blog.jetbrains.com/dotnet/2023/07/13/debug-source-generators-in-jetbrains-rider/) (JetBrains)
+* [EditorConfig, Code Style, and Configuring Code Inspections](https://blog.jetbrains.com/dotnet/2023/07/18/editorconfig-code-style-and-configuring-code-inspections/) (JetBrains)
 
 ### Videos
 
@@ -357,6 +358,7 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [Unity performance best practice with Rider, part 2](https://blog.jetbrains.com/dotnet/2019/02/28/performance-inspections-unity-code-rider/) (JetBrains)
 * [Debugging Unity Players over network and USB with Rider 2020.2](https://blog.jetbrains.com/dotnet/2020/08/11/debugging-unity-players-over-network-and-usb-with-rider-2020-2/) (JetBrains)
 * [Debugger Extensions for Unity in Rider 2020.2](https://blog.jetbrains.com/dotnet/2020/08/17/debugger-extensions-for-unity-in-rider-2020-2/) (JetBrains)
+* [Improvements to Unity shader files in Rider 2023.2](https://blog.jetbrains.com/dotnet/2023/07/25/improvements-to-unity-shader-files-in-rider-2023-2/) (JetBrains)
 
 #### Videos
 
