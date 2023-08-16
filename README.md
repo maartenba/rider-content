@@ -120,6 +120,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [HTTP Client Tools Everywhere!](https://blog.jetbrains.com/dotnet/2023/07/04/http-client-tools-everywhere/) (JetBrains)
 * [Debug Source Generators in JetBrains Rider](https://blog.jetbrains.com/dotnet/2023/07/13/debug-source-generators-in-jetbrains-rider/) (JetBrains)
 * [EditorConfig, Code Style, and Configuring Code Inspections](https://blog.jetbrains.com/dotnet/2023/07/18/editorconfig-code-style-and-configuring-code-inspections/) (JetBrains)
+* [How To Debug Docker and Docker Compose Solutions with JetBrains Rider](https://blog.jetbrains.com/dotnet/2023/08/16/debugging-docker-and-docker-compose-solutions-with-jetbrains-rider/) (JetBrains)
 
 ### Videos
 
