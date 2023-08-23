@@ -121,6 +121,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Debug Source Generators in JetBrains Rider](https://blog.jetbrains.com/dotnet/2023/07/13/debug-source-generators-in-jetbrains-rider/) (JetBrains)
 * [EditorConfig, Code Style, and Configuring Code Inspections](https://blog.jetbrains.com/dotnet/2023/07/18/editorconfig-code-style-and-configuring-code-inspections/) (JetBrains)
 * [How To Debug Docker and Docker Compose Solutions with JetBrains Rider](https://blog.jetbrains.com/dotnet/2023/08/16/debugging-docker-and-docker-compose-solutions-with-jetbrains-rider/) (JetBrains)
+* [How to Install JetBrains Rider on Steam Deck](https://blog.jetbrains.com/dotnet/2023/08/23/how-to-install-jetbrains-rider-on-steam-deck/) (JetBrains)
 
 ### Videos
 
