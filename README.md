@@ -339,6 +339,7 @@ In this category, we'll explore language support. C#, VB.NET, F#, but also JavaS
 * [SQL inside C# strings, fragment editor, run query in console – Language injection updates in Rider 2018.3](https://blog.jetbrains.com/dotnet/2018/10/29/sql-inside-c-strings-fragment-editor-run-query-console-language-injection-updates-rider-2018-3/) (JetBrains)
 * [Getting Started With Entity Framework Core 5](https://blog.jetbrains.com/dotnet/2020/11/25/getting-started-with-entity-framework-core-5/) (JetBrains)
 * [Entity Framework Core Inside Rider: UI Way](https://blog.jetbrains.com/dotnet/2022/01/31/entity-framework-core-inside-rider-ui-way/) (Community + JetBrains)
+* [Eager, Lazy and Explicit Loading with Entity Framework Core](https://blog.jetbrains.com/dotnet/2023/09/21/eager-lazy-and-explicit-loading-with-entity-framework-core/) (JetBrains)
 
 ### Unity
 
