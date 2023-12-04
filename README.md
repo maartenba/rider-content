@@ -123,6 +123,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [How To Debug Docker and Docker Compose Solutions with JetBrains Rider](https://blog.jetbrains.com/dotnet/2023/08/16/debugging-docker-and-docker-compose-solutions-with-jetbrains-rider/) (JetBrains)
 * [How to Install JetBrains Rider on Steam Deck](https://blog.jetbrains.com/dotnet/2023/08/23/how-to-install-jetbrains-rider-on-steam-deck/) (JetBrains)
 * [Automatically Analyze ASP.NET Core Performance With Dynamic Program Analysis](https://blog.jetbrains.com/dotnet/2023/11/14/automatically-analyze-asp-net-core-performance-with-dynamic-program-analysis/) (JetBrains)
+* [Another Look into the Future with Rider’s Predictive Debugger](https://blog.jetbrains.com/dotnet/2023/12/04/another-look-into-the-future-with-riders-predictive-debugger/) (JetBrains)
 
 ### Videos
 
