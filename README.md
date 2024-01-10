@@ -132,6 +132,14 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Introducing Rider](https://www.youtube.com/watch?v=v51ljZ39AHA&t=3038s) (JetBrains)
 * [Become a Productive .NET Developer with JetBrains Rider](https://www.youtube.com/watch?v=yg7C4QNVjk0) (JetBrains)
 
+## AI Assistant
+
+In this category, we'll look at AI Assistant functionality in Rider.
+
+### Blog posts and articles
+
+- [Use JetBrains AI Assistant To Help You Understand Changes In Your Code](https://blog.jetbrains.com/dotnet/2024/01/10/use-jetbrains-ai-assistant-to-help-you-understand-changes-in-your-code/) (JetBrains)
+
 ## Debugger
 
 In this category, we explore Rider's debugger. There are various tips & tricks around it, so be sure to check them out!
