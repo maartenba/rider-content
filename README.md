@@ -173,6 +173,7 @@ In this category, we explore Rider's debugger. There are various tips & tricks a
 * [Immediate Window – Interact with your Code while Debugging in Rider](https://blog.jetbrains.com/dotnet/2020/10/15/immediate-window-interact-with-your-code-while-debugging-in-rider/) (JetBrains)
 * [Updated Debugging Experience, UWP Apps, and Debug Windows Docker containers in Rider 2021.3](https://blog.jetbrains.com/dotnet/2021/10/20/debugging-experience-debug-uwp-apps-and-debug-windows-docker-containers-in-rider-2021-3/) (JetBrains)
 * [Hot Reload for .NET 6 in Rider 2021.3](https://blog.jetbrains.com/dotnet/2021/10/25/hot-reload-for-net-6-in-rider-2021-3/) (JetBrains)
+* [12 Debugging Techniques In JetBrains Rider You Should Know About](https://blog.jetbrains.com/dotnet/2024/01/29/12-debugging-techniques-in-jetbrains-rider-you-should-know-about/) (JetBrains)
 
 ### Videos
 
