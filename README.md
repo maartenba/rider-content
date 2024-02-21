@@ -139,9 +139,10 @@ In this category, we'll look at AI Assistant functionality in Rider.
 
 ### Blog posts and articles
 
-- [Use JetBrains AI Assistant To Help You Understand Changes In Your Code](https://blog.jetbrains.com/dotnet/2024/01/10/use-jetbrains-ai-assistant-to-help-you-understand-changes-in-your-code/) (JetBrains)
+* [Use JetBrains AI Assistant To Help You Understand Changes In Your Code](https://blog.jetbrains.com/dotnet/2024/01/10/use-jetbrains-ai-assistant-to-help-you-understand-changes-in-your-code/) (JetBrains)
+* [How To Use AI Assistant to Generate Test Data For .NET Applications](https://blog.jetbrains.com/dotnet/2024/02/21/jetbrains-ai-assistant-generate-test-data-for-dotnet/) (JetBrains)
 
-## Debugger
+# Debugger
 
 In this category, we explore Rider's debugger. There are various tips & tricks around it, so be sure to check them out!
 
