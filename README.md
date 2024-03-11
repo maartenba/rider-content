@@ -125,6 +125,7 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Automatically Analyze ASP.NET Core Performance With Dynamic Program Analysis](https://blog.jetbrains.com/dotnet/2023/11/14/automatically-analyze-asp-net-core-performance-with-dynamic-program-analysis/) (JetBrains)
 * [Another Look into the Future with Rider’s Predictive Debugger](https://blog.jetbrains.com/dotnet/2023/12/04/another-look-into-the-future-with-riders-predictive-debugger/) (JetBrains)
 * [JetBrains Rider and the .NET Aspire Plugin](https://blog.jetbrains.com/dotnet/2024/02/19/jetbrains-rider-and-the-net-aspire-plugin/) (JetBrains)
+* [Blazor Wasm Development Upgrades in JetBrains Rider 2024.1](https://blog.jetbrains.com/dotnet/2024/03/11/blazor-wasm-development-upgrades-jetbrains-rider-2024-1/) (JetBrains)
 
 ### Videos
 
