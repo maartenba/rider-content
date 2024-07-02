@@ -118,12 +118,9 @@ In this category, we explore IDE tips and tricks that will help us become more p
 * [Level Up with Live Templates in JetBrains Rider](https://blog.jetbrains.com/dotnet/2023/05/30/level-up-with-live-templates-in-jetbrains-rider/) (JetBrains)
 * [How Docker Fast Mode Works in Rider](https://blog.jetbrains.com/dotnet/2023/06/07/how-docker-fast-mode-works-in-rider/) (JetBrains)
 * [HTTP Client Tools Everywhere!](https://blog.jetbrains.com/dotnet/2023/07/04/http-client-tools-everywhere/) (JetBrains)
-* [Debug Source Generators in JetBrains Rider](https://blog.jetbrains.com/dotnet/2023/07/13/debug-source-generators-in-jetbrains-rider/) (JetBrains)
 * [EditorConfig, Code Style, and Configuring Code Inspections](https://blog.jetbrains.com/dotnet/2023/07/18/editorconfig-code-style-and-configuring-code-inspections/) (JetBrains)
-* [How To Debug Docker and Docker Compose Solutions with JetBrains Rider](https://blog.jetbrains.com/dotnet/2023/08/16/debugging-docker-and-docker-compose-solutions-with-jetbrains-rider/) (JetBrains)
 * [How to Install JetBrains Rider on Steam Deck](https://blog.jetbrains.com/dotnet/2023/08/23/how-to-install-jetbrains-rider-on-steam-deck/) (JetBrains)
 * [Automatically Analyze ASP.NET Core Performance With Dynamic Program Analysis](https://blog.jetbrains.com/dotnet/2023/11/14/automatically-analyze-asp-net-core-performance-with-dynamic-program-analysis/) (JetBrains)
-* [Another Look into the Future with Rider’s Predictive Debugger](https://blog.jetbrains.com/dotnet/2023/12/04/another-look-into-the-future-with-riders-predictive-debugger/) (JetBrains)
 * [JetBrains Rider and the .NET Aspire Plugin](https://blog.jetbrains.com/dotnet/2024/02/19/jetbrains-rider-and-the-net-aspire-plugin/) (JetBrains)
 * [Blazor Wasm Development Upgrades in JetBrains Rider 2024.1](https://blog.jetbrains.com/dotnet/2024/03/11/blazor-wasm-development-upgrades-jetbrains-rider-2024-1/) (JetBrains)
 * [9 Things You Didn’t Know About JetBrains Rider’s NuGet Support](https://blog.jetbrains.com/dotnet/2024/05/29/9-things-you-didn-t-know-about-jetbrains-rider-s-nuget-support/) (JetBrains)
@@ -175,10 +172,14 @@ In this category, we explore Rider's debugger. There are various tips & tricks a
 * [Remote debugging Windows containers with Rider](https://joost.meijles.com/remote_debug_windows_container_rider) (community)
 * [Data Breakpoints and Pin-to-Frame – Debugger Updates in Rider 2020.2 EAP](https://blog.jetbrains.com/dotnet/2020/07/22/data-breakpoints-and-pin-to-frame-debugger-updates-in-rider-2020-2-eap/) (JetBrains)
 * [Immediate Window – Interact with your Code while Debugging in Rider](https://blog.jetbrains.com/dotnet/2020/10/15/immediate-window-interact-with-your-code-while-debugging-in-rider/) (JetBrains)
+* [Debug Source Generators in JetBrains Rider](https://blog.jetbrains.com/dotnet/2023/07/13/debug-source-generators-in-jetbrains-rider/) (JetBrains)
+* [How To Debug Docker and Docker Compose Solutions with JetBrains Rider](https://blog.jetbrains.com/dotnet/2023/08/16/debugging-docker-and-docker-compose-solutions-with-jetbrains-rider/) (JetBrains)
+* [Another Look into the Future with Rider’s Predictive Debugger](https://blog.jetbrains.com/dotnet/2023/12/04/another-look-into-the-future-with-riders-predictive-debugger/) (JetBrains)
 * [Updated Debugging Experience, UWP Apps, and Debug Windows Docker containers in Rider 2021.3](https://blog.jetbrains.com/dotnet/2021/10/20/debugging-experience-debug-uwp-apps-and-debug-windows-docker-containers-in-rider-2021-3/) (JetBrains)
 * [Hot Reload for .NET 6 in Rider 2021.3](https://blog.jetbrains.com/dotnet/2021/10/25/hot-reload-for-net-6-in-rider-2021-3/) (JetBrains)
 * [12 Debugging Techniques In JetBrains Rider You Should Know About](https://blog.jetbrains.com/dotnet/2024/01/29/12-debugging-techniques-in-jetbrains-rider-you-should-know-about/) (JetBrains)
 * [Exploring Collections & DataTables](https://blog.jetbrains.com/dotnet/2024/04/15/exploring-collections-and-datatables/) (JetBrains)
+* [How to use the Tasks View in JetBrains Rider](https://blog.jetbrains.com/dotnet/2024/07/02/how-to-use-the-tasks-view-in-jetbrains-rider/) (JetBrains)
 
 ### Videos
 
