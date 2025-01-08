@@ -1,5 +1,7 @@
 <img src="https://github.com/maartenba/rider-content/raw/main/logo.jpg" width="150" />
 
+**NO LONGER MAINTAINED - SHOULD BE UP-TO-DATE UNTIL END OF 2024**
+
 # Curated list of Rider content
 
 This is a curated list of content around [JetBrains Rider](https://www.jetbrains.com/rider). **Feel free to submit your own content via a PR!**
